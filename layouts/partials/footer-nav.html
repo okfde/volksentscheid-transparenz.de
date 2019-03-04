@@ -1,0 +1,5 @@
+<ul class="c__nav-list--social">
+  {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/downloads" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+</ul>

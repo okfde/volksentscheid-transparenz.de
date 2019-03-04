@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{- partial "head.html" . -}}
+    {{- block "title" .}}{{- end }}
+    {{- block "head" .}}{{- end }}
+  </head>
+  <body class="no-js">
+    {{- partial "header.html" . -}}
+    <main id="content" name="content">
+      <div class="">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+    {{- partial "footer.html" . -}}
+  </body>
+</html>

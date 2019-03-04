@@ -1,0 +1,176 @@
+{{ define "title"}}
+<title>Volksentscheid Transparenzgesetz</title>
+{{ end }}
+
+{{ define "head" }}
+<meta property="og:title" content="Volksentscheid Transparenzgesetz" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="" />
+{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="l__home">
+
+    <section class="l__content__bg--yellow l__home__start">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-xs-12 col-sm-7 col-md-5 l__home__img">
+            <img src="/volksentscheid/start-illu.svg" alt="" class="d-none d-lg-block">
+          </div>
+          <div class="col col-12 col-xs-12 col-sm-6 col-md-7">
+            <h1>{{ .Params.blurb }}</h1>
+            <p>{{ .Params.work }}</p>
+            <p>{{ with .Site.GetPage "/profil" }}
+              <a href="{{ .Permalink }}" class="c__arrow">
+                {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="l__content">
+      <div class="container">
+        <div class="col col-12">
+          <div class="row">
+            <div class="l__home__teaser col col-lg-3 col-xs-12">
+              <a href="/info">
+                <div class="l__home__teaser__inner">
+                  <div class="l__home__teaser__img">
+                    <img src="/volksentscheid/info__teaser.png" alt="" class="img-responsive">
+                  </div> 
+                  <div class="l__home teaser__content">
+                    <h3><a href="/info">Über den Volksentscheid</a></h3>
+                    <p>
+                      Unser Transparenzgesetz regelt, welche Informationen der Berliner Politik und Verwaltung sowie der Unternehmen des Landes Berlin künftig aktiv veröffentlicht werde müssen.</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+
+            <div class="l__home__teaser col col-lg-6 col-xs-12">
+              <a href="/gruende">
+                <div class="l__home__teaser__inner">
+                  <div class="l__home__teaser__img">
+                    <img src="/gruende/00_gruende__teaser.png" alt="" class="img-responsive">
+                  </div> 
+                  <div class="l__home teaser__content">
+                    <h3><a href="/gruende">9 Gründe für ein Transparenzgesetz</a></h3>
+                    <p>Mit unserem Transparenzgesetz erreichen wir eine neue Form der Kontrolle der Politik in Berlin und eine echte Basis für Mitbestimmung! Erfahre alles über die Gründe für ein Transparenzgesetz in unserer Übersicht!</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="l__home__teaser col col-lg-3 col-xs-12">
+              <a href="http://eepurl.com/dPuBD5">
+                <div class="l__home__teaser__inner__bg--black text__white">
+                  <div class="l__home__teaser__img">
+                    <img src="/volksentscheid/newsletter.png" alt="" class="img-responsive">
+                  </div> 
+                  <div class="l__home teaser__content text__white">  
+                    <h3><a href="http://eepurl.com/dPuBD5">Newsletter abonnieren {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container mt-l mb-l">
+      <div class="row justify-between">
+        <div class="col col-10 mb-s">
+          <h2>{{ i18n "home_blog_news" }}</h2>
+        </div>
+
+        <ul class="l__blog__posts container mt-s">
+          {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
+          {{- partial "post_item.html" . -}}
+          {{ end }}
+        </ul>
+      </div>
+      <div class="mt-s">
+        <p>{{ with .Site.GetPage "/blog" }}
+          <a href="{{ .Permalink }}" class="c__arrow">
+            {{ i18n "home_all_posts" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
+      </div>
+    </section>
+    <section class="l__content">
+      <div class="l__content__partner__white mt-l mb-l col col-10 offset-lg-1">
+        <h3> Eine Initiative von</h3>
+        <div class="row">
+          <div class="col col-xs-12 col-md-3">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/OKFN.png" alt="Logo OKFDE"/>
+              </div>
+            </div>
+          </div>
+          <div class="col col-xs-12 col-md-3">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                  <img src="/partner/md.png" alt="Logo Mehr Demokratie"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3>gemeinsam mit</h3>
+        <div class="row">
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/aw.png" alt="Logo Abgeordnetenwatch"/>
+              </div>
+            </div>
+          </div>
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/wmde-logo.png" alt="Logo Wikimedia"/>
+              </div>
+            </div>
+          </div>
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/digiges.png" alt="Logo Digitale Gesellschaft"/>
+              </div>
+            </div>
+          </div>
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/nr.png" alt="Logo Netzwerk Recherche"/>
+              </div>
+            </div>
+          </div>
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/CCC.png" alt="Logo CCC"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col col-xs-6 col-md-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/openpetition-logo.png"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+</main>
+{{ end }}

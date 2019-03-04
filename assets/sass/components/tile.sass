@@ -1,0 +1,50 @@
+.c__tile
+  position: relative
+  display: block
+  width: 100%
+  height: 235px
+  padding: 0.8rem 1.2rem
+  margin-bottom: $space
+  color: inherit
+  background-color: $greyish
+  background-size: cover
+  background-position: center center
+  background-color: grey
+  background-repeat: no-repeat
+  &:hover,
+  &:active
+    text-decoration: none
+    .c__tile__overlay
+      animation: tileFadeIn 200ms 1
+      animation-fill-mode: forwards
+
+.c__tile--double
+  height: 500px
+
+.c__tile__title
+  position: relative
+  z-index: 4
+
+.c__tile__overlay
+  position: absolute
+  width: 100%
+  height: 100%
+  padding: 0.3rem 1.2rem
+  background: #121645
+  top: 0
+  left: 0
+  z-index: 2
+  opacity: 0
+  webkit-transition: 0.2s ease-in-out
+  transition: 0.2s ease-in-out
+  p
+    position: relative
+    top: 2.7em
+    font-weight: 400
+    color: $greyish
+
+@keyframes tileFadeIn
+  0%
+    opacity: 0
+  100%
+    opacity: 0.8

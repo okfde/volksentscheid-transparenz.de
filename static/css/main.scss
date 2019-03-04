@@ -1,0 +1,59 @@
+---
+# dashes are needed to build css
+---
+
+@import "../_sass/base";
+//@import "mobilemenubutton";
+
+@media screen and (min-width: 481px) {
+  @import "../_sass/481";
+}
+
+@media screen and (min-width: 768px) {
+  @import "../_sass/768";
+}
+
+@media screen and (min-width: 960px) {
+  @import "../_sass/960";
+}
+
+@media screen and (min-width: 1200px) {
+  @import "../_sass/1200";
+}
+
+.logo-sections .img-responsive {
+  width: 15rem;
+}
+
+#mc_embed_signup_scroll .form-control {
+  padding-bottom: 0;
+}
+
+#mc_embed_signup_scroll .btn-mitmachen {
+  height: 40px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+// the nav bar situation is quite complex so here work around
+@media screen and (max-width: 600px) {
+  .nav-wrap {
+    width: 90px;
+  }
+  .nav-wrap li {
+    padding-top: 0 !important;
+  }
+}
+
+.overlay-text-image {
+  position: relative;
+}
+
+// nadine here!
+.overlay-text-image h3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

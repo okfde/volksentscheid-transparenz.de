@@ -1,0 +1,78 @@
+.l__content
+  h1
+    @include media-breakpoint-down(sm)
+      font-size: 2.5rem
+  h2, h4
+    line-height: 1.2
+    margin: 2em 0 0
+  h3
+        margin: 1em 0 0
+  p
+    margin: 1em 0 1.3em
+    line-height: 1.55
+    font-size: 1.2rem
+
+  ul,
+  ol
+    padding-left: 3em
+    margin: 1em 0 1.3em
+    line-height: 1.55
+    font-size: 1.2rem
+  ul
+    list-style: disc
+  ol
+    list-style: roman
+  li
+    margin-bottom: 0.3em
+    line-height: 1.55
+  iframe,
+  img
+    width: 100%
+
+.l__content__bg--grey
+  background-color: $pale-grey
+
+
+.l__content__bg--yellow
+  background-color: $yellow
+
+.content-element 
+  display: block
+  width: 100%
+  .content-element img 
+    width: 100%
+    height: auto
+    display: block
+  .content-element.left 
+    float: left
+    margin-top: 35px
+    margin-right: 40px
+    margin-left: 0px
+    margin-bottom: 20px
+  .content-element.right 
+    float: right
+    margin-top: 35px
+    margin-right: 0px
+    margin-left: 40px
+    margin-bottom: 20px
+  .content-element.infobox 
+    -webkit-transition: box-shadow 0.5s ease
+    -moz-transition: box-shadow 0.5s ease
+    -ms-transition: box-shadow 0.5s ease
+    -o-transition: box-shadow 0.5s ease
+    transition: box-shadow 0.5s ease
+    box-shadow: 10px 10px 15px 1px rgba(0, 0, 0, 0.1)
+    background-color: #00fcdd
+    color: #000
+    text-align: left
+    width: 100%
+    padding: 20px
+    .content-element.infobox .infobox-headline 
+      font-weight: 700
+      margin-bottom: 15px
+    .content-element.infobox .infobox-copy a 
+      text-decoration: underline
+    .content-element.infobox .infobox-headline, .content-element.infobox .infobox-copy
+      font-size: 1.25rem
+      display: block
+      line-height: 1.2

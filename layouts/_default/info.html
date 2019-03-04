@@ -1,0 +1,72 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<section class="l__finance container align-items-end">
+  <div class="row mt-0 l__content">
+    <div class="col col-12 col-md-8">
+      {{ .Content }}
+    </div>
+    <div class="col col-12 col-md-3 offset-lg-1 mt-1">
+      <a href="/files/documents/BerlTG-E.pdf">
+        <div class="teaser__inner">
+          <div class="teaser__img">
+            <img src="/volksentscheid/gesetz__teaser.png" alt="" class="img-responsive">
+          </div> 
+          <div class="teaser__content">
+            <h3>Was steht im Gesetz?</h3>
+            <p><a href="/files/documents/BerlTG-E.pdf">Gesetzentwurf herunterladen</a>
+            <a href="https://berlin.transparenzgesetz.de">Gesetzentwurf kommentieren</a></p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="l__finance container l__content">
+  {{ range .Pages }}
+  <div class="row">
+    <div class="col col-12 col-md-10 col-lg-7">
+      <h2 class="h3">{{.Title}}</h2>
+      <p>{{.Content}}</p>
+    </div>
+  </div>
+  {{ end }}
+</section>
+<aside class="container">
+  <div class="l__profile__aside row">
+    <div class="col col-12 col-sm-10 col-md-10 col-lg-8">
+      <div class="row c__additional no-gutters">
+        <div class="col-12 col-md-5">
+          <img src="/volksentscheid/mitmachen__teaser.png" alt="">
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="c__additional__info">
+            <h3>{{ .Params.box_title }}</h3>
+            <p>
+              <a href='{{ with .Site.GetPage "/mitmachen" }}{{.Permalink}}{{ end }}'>
+                {{ .Params.box_link_name }}</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</aside>
+{{ end }}
+

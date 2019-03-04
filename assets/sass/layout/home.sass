@@ -1,0 +1,118 @@
+.l__home
+  .container
+    max-width: $max-width
+    margin-left: auto
+    margin-right: auto
+
+    h1
+      font-size: 4rem
+      padding: 1em 0 .75em 0
+
+    @include media-breakpoint-down(xs)
+      h1
+        font-size: 2.25rem
+        line-height: 1.2
+
+    p 
+      font-size: 1.2rem
+      line-height: 1.5
+      font-weight: 400
+
+
+.l__home__img
+  position: relative
+
+  div
+    //position: relative
+  img
+    width: 100%
+    height: auto
+    //position: absolute
+    margin-bottom: 130px
+    max-width: 475px
+    z-index: 1
+
+.l__home__teaser__inner__bg--black
+  background-color: black
+  padding: 1em
+  &:hover
+    cursor: url('/volksentscheid/cursor.png')
+  a
+    color: white
+    text-decoration: none
+    padding-bottom: 1px
+    border-bottom: 2px solid transparent
+    transition: all 300ms ease-in-out
+  a:hover,
+  a:active
+    color: white
+    padding-bottom: 1px
+    border-bottom: 2px solid white
+
+.l__home__teaser 
+  @include media-breakpoint-down(lg)
+    margin-top: 2em
+
+.l__home__teaser__inner
+  width: 100%
+  display: block
+
+  a
+    color: black
+    font-weight: 500
+    padding-bottom: 1px
+    border-bottom: 2px solid transparent
+    transition: all 300ms ease-in-out
+  a:hover,
+  a:active
+    color: black
+    text-decoration: none
+    padding-bottom: 1px
+    border-bottom: 2px solid black
+  img
+    width: 100%
+
+
+
+@include media-breakpoint-up(lg)
+  .l__home__start
+    position: relative
+    padding: 3em 0 1em 0 
+    margin-top: -55px
+    margin-bottom: 100px
+@include media-breakpoint-down(lg)
+  .l__home__start
+      margin-top: -55px
+      padding: 0 0 3em 0 
+
+
+  .l__home__donate__img
+    position: absolute
+    top: -16em
+
+
+
+.l__home__donate__img
+  width: 100%
+
+@include media-breakpoint-up(lg)
+  .l__home__donate
+    position: relative
+    padding: 3em 0
+    margin-top: 150px
+    margin-bottom: 240px
+
+  .l__home__donate__img
+    position: absolute
+    top: -16em
+
+@include media-breakpoint-down(xs)
+  .l__home
+    .l__projects__list--home
+      .l__projects__item
+          padding: 0
+          &:first-child
+            margin-top: 1.15em
+
+.l__content__partner__white
+  background-color: white
