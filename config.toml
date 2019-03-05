@@ -1,4 +1,4 @@
-baseURL = "volksentscheid-transparenz.de"
+baseURL = "https://beta.volksentscheid-transparenz.de"
 languageCode = "de-DE"
 title = "Volksentscheid Transparenzgesetz"
 defaultContentLanguage = "de"
