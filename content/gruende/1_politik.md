@@ -8,4 +8,4 @@ img:
 arrange: img_left
 ---
 
-Das Transparenzgesetz verpflichtet Senat und Behörden, für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z.B. zur Wasserqualität oder Entwicklung von Grundstückspreisen sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
+Das Transparenzgesetz verpflichtet Senat und Behörden, für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z. B. zur Wasserqualität oder Entwicklung von Grundstückspreisen sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.

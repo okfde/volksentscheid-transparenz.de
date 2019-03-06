@@ -12,9 +12,8 @@ paypal_link: #
 betterplace_name: Betterplace
 betterplace_text:
 box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
-box_link_name: Hier geht's zur Transparenzseite
 
 ---
 
 <br>
-Wir kämpfen für Transparenz! Mit deiner Spende unterstützt du unser Engagement. Trag' dazu bei, dass die Berliner Akten geöffnet werden! Wir freuen uns über jeden Euro, um mit aller Kraft das Transparenzgesetz einzuführen.
+Wir kämpfen für Transparenz! Mit deiner Spende unterstützt du unser Engagement. Wir benötigen Geld für Druckkosten, Aktionsstände und Flyer. Trag dazu bei, dass die Berliner Akten geöffnet werden!
