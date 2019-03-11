@@ -18,7 +18,7 @@
 
 {{ define "main" }}
 <main>
-  <section class="l__verein container align-items-end">
+  <section class="container align-items-end">
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
       <div class="col col-12 mt-d mb-0">
@@ -32,17 +32,13 @@
     </div>
     <ul class="row c__download-list mb-l">
       {{ $lang := .Lang }}
-      {{ range $.Site.Data.downloadsverein }}
-      <li class="col col-12 col-sm-6">
+      {{ range $.Site.Data.downloads }}
+      <li class=" col col-12 col-sm-6">
         <div>
-          {{ if eq $lang "de"}}
-          <h3 class="h4">{{ .de.title }}</h3>
-          <p>{{ .de.text}}</p>
-          {{ else }}
-          <h3 class="h4">{{ .en.title }}</h3>
-          <p>{{ .en.text}}</p>
-          {{ end }}
-          <p><a href="{{.path}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
+          <a href="{{.path}}">
+            <h3 class="h4">{{ .de.title }}</h3>
+            <p>{{ .de.text}}</p>         
+          </a>
         </div>
       </li>
       {{ end }}

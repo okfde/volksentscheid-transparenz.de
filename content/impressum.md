@@ -1,9 +1,8 @@
 ---
 title: Impressum
-meta: OKF DE Impressum, Vereinsadresse, Datenschutzerklärung
 ---
 
-**Vereinsadresse:**<br>
+
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109<br>
 10179 Berlin</br>
