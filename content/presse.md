@@ -9,7 +9,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 **Open Knowledge Foundation Deutschland:** <br>
 **Leonard Wolf**<br>
-**E-Mail:** info@volksentscheid-transparenz.de<br>
+**E-Mail:** presse@volksentscheid-transparenz.de<br>
 **Telefon:**
 +49 30 57 70 36 662
 
