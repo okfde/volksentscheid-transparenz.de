@@ -7,7 +7,7 @@ layout: mitmachen
 ---
 
 
-Wir freuen uns immer über neue Macher*innen! 
+Wir freuen uns immer über neue Macher\*innen! 
 
 
 Wir treffen uns jeden zweiten Montag (ungerade KW) um 18:00 Uhr im Haus der Demokratie und Menschenrechte und freuen uns jederzeit über Interessierte!
