@@ -8,4 +8,4 @@ img:
 arrange: img_left
 ---
 
-Wer schreibt an Berliner Gesetzen mit? Mit dem Transparenzgesetz muss der Senat offenlegen, welche Organisationen und Lobbygruppen Einfluss auf Gesetze haben und mit welchen Interessenvertretungen sich der Senat trifft.
+Wer schreibt an den Berliner Gesetzen mit? Mit dem Transparenzgesetz muss der Senat offenlegen, welche Organisationen und Lobbygruppen Einfluss auf Gesetze haben und mit welchen Interessenvertretungen sich der Senat trifft.
