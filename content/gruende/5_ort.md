@@ -8,4 +8,4 @@ img:
 arrange: img_left
 ---
 
-Wer Informationen der Berliner Behörden sucht, verliert sich schnell im Webseiten-Dschungel der Berliner Verwaltungen. Unser Gesetz legt fest, dass alle wichtigen Informationen auf einer Transparenz-Plattform veröffentlicht werden müssen. Eine Plattform, eine Suche. So einfach kann es sein.
+Wer Informationen der Berliner Behörden sucht, verliert sich schnell im Webseiten-Dschungel der einzelnen Verwaltungen. Unser Gesetz legt fest, dass alle wichtigen Informationen auf einer Transparenz-Plattform veröffentlicht werden müssen. Eine Plattform, eine Suche. So einfach kann es sein.
