@@ -27,7 +27,7 @@ Deutschland
 
 ### Haftungsausschluss
 
-Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV sind die jeweilgen Autor*innen eines Textes.
+Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV sind die jeweilgen Autor\*innen eines Textes.
 
 ### Haftung für Inhalte
 
