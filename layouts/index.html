@@ -16,23 +16,33 @@
 {{ define "main" }}
 <main>
   <div class="l__home">
-
-    <section class="l__content__bg--yellow l__home__start">
-      <div class="container">
-        <div class="row">
-          <div class="col col-12 col-xs-12 col-sm-7 col-md-5 l__home__img">
-            <img src="/volksentscheid/start-illu.svg" alt="" class="d-none d-lg-block">
-          </div>
-          <div class="col col-12 col-xs-12 col-sm-6 col-md-7">
+    <section class="l__content l__home__start">
+      <div class="col col-12 col-xs-12 l__content__bg--grey">
+          <div class="col col-12 col-xs-10 col-lg-10 offset-lg-1">
             <h1>{{ .Params.blurb }}</h1>
-            <p>{{ .Params.work }}</p>
-            <p>{{ with .Site.GetPage "/profil" }}
-              <a href="{{ .Permalink }}" class="c__arrow">
-                {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
-            </p>
+            <h2 class="blackour">
+              <a href="/info">
+                {{ .Params.work }}
+              </a> 
+            </h2>
+          </div>   
+      </div>
+    </section>
+
+
+    <section class="u04-subscribe">
+      <a href="/mitmachen">
+        <div class="u04-subscribe__wrapper">
+          <div class="u04-subscribe__marquee" data-animation-play-state="run">
+            <span class="u04-subscribe__marquee-content">Mitmachen</span>
+            <span class="u04-subscribe__marquee-content">Mitmachen</span>
+            <span class="u04-subscribe__marquee-content">Mitmachen</span>
+            <span class="u04-subscribe__marquee-content">Mitmachen</span>
+            <span class="u04-subscribe__marquee-content">Mitmachen</span>
+
           </div>
         </div>
-      </div>
+      </a>
     </section>
 
     <section class="l__content">
@@ -50,24 +60,24 @@
                     <p>
                       Unser Transparenzgesetz regelt, welche Informationen der Berliner Politik und Verwaltung sowie der Unternehmen des Landes Berlin künftig aktiv veröffentlicht werde müssen.</p>
                   </div>
-                </a>
-              </div>
+                </div>
+              </a>
             </div>
 
-            <div class="l__home__teaser col col-lg-6 col-xs-12">
+            <div class="l__home__teaser col col-lg-6 col-md-6 col-xs-12">
               <a href="/gruende">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/gruende/00_gruende__teaser.png" alt="" class="img-responsive">
+                    <img src="/gruende/00_gruende__teaser-4.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
                     <h3><a href="/gruende">9 Gründe für ein Transparenzgesetz</a></h3>
                     <p>Mit unserem Transparenzgesetz erreichen wir eine neue Form der Kontrolle der Politik in Berlin und eine echte Basis für Mitbestimmung! Erfahre alles über die Gründe für ein Transparenzgesetz in unserer Übersicht!</p>
                   </div>
-                </a>
-              </div>
+                </div>
+              </a>
             </div>
-            <div class="l__home__teaser col col-lg-3 col-xs-12">
+            <div class="l__home__teaser col col-lg-3 col-md-6 col-xs-12">
               <a href="http://eepurl.com/dPuBD5">
                 <div class="l__home__teaser__inner__bg--black text__white">
                   <div class="l__home__teaser__img">
@@ -76,8 +86,38 @@
                   <div class="l__home teaser__content text__white">  
                     <h3><a href="http://eepurl.com/dPuBD5">Newsletter abonnieren {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></h3>
                   </div>
-                </a>
-              </div>
+                </div>
+              </a>
+            </div>
+            <div class="l__home__teaser col col-lg-6 col-md-6 col-xs-12">
+              <a href="/mitmachen">
+                <div class="l__home__teaser__inner">
+                  <div class="l__home__teaser__img">
+                    <img src="/volksentscheid/mitmachen__teaser_blue.png" alt="" class="img-responsive">
+                  </div> 
+                  <div class="l__home teaser__content">
+                    <h3><a href="/mitmachen">Werde aktiv</a></h3>
+                    <p>
+                      Sorge selbst für mehr Transparenz in Deiner Stadt! Hilf uns bei der Unterschriftensammlung, beim Material oder bei der Finanzierung. Ganz einfach und auf Deine Weise.</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="l__home__teaser col col-lg-3 col-md-6 col-xs-12">
+              <a href="/files/documents/BerlTG-E.pdf">
+                <div class="l__home__teaser__inner">
+                  <div class="l__home__teaser__img">
+                    <img src="/volksentscheid/gesetz__teaser_gray.png" alt="" class="img-responsive">
+                  </div> 
+                  <div class="l__home teaser__content">
+                    <h3><a href="/files/documents/BerlTG-E.pdf">Was steht im Gesetz?</a></h3>
+                    <p>Unser Transparenzgesetz regelt, welche Informationen der Berliner Politik und Verwaltung sowie der Unternehmen des Landes Berlin künftig aktiv veröffentlicht werde müssen.</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="l__home__teaser col col-lg-3 col-xs-12">
+              <iframe src="https://open.spotify.com/embed/user/1125183168/playlist/4IDAwSBduRrsHscyusWhyV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             </div>
           </div>
         </div>
@@ -102,6 +142,7 @@
             Alle Posts</a>{{ end }}</p>
       </div>
     </section>
+
     <section class="l__content">
       <div class="l__content__partner__white mt-l mb-l col col-10 offset-lg-1">
         <h3> Eine Initiative von</h3>
