@@ -1,6 +1,6 @@
 ---
 title: Spenden
-blurb: Spende jetzt
+blurb: Spende jetzt!
 meta:  Volksentscheid Transparenz unterstützen
 layout: donation
 bank_name: "Überweisung"

@@ -3,7 +3,7 @@ title: Presse
 meta: Pressekontakt, Presseverteiler, Logos, Bilder
 ---
 
-Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unserem Volksentscheid hast oder eine*n Interviewpartner*in benötigst, wende Dich bitte an unser Presse-Team. Wir helfen Dir gern weiter!
+Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unserem Volksentscheid hast oder eine*n Interviewpartner*in benötigst, wende dich bitte an unser Presse-Team. Wir helfen dir gerne weiter!
 
 ## Kontakt
 
@@ -24,5 +24,5 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Logos und Material
 
-Die Logos des Volksentscheid Transparenz, stehen [**hier als Paket**](/files/documents/Logo_Paket.zip) zur Verfügung.
+Die Logos des Volksentscheid Transparenz stehen [**hier als Paket**](/files/documents/Logo_Paket.zip) zur Verfügung.
 
