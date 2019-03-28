@@ -12,7 +12,7 @@
 <link rel="preload" href="/fonts/apercu-medium-pro.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
-{{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+{{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 
 {{ $js :=  resources.Get "js/toggle.js" | resources.Minify | resources.Fingerprint}}
