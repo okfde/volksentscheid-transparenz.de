@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-03-28
 image:
-  src: /files/blog/2019/01/entwurf_fdp.jpg
+  src: 
   title: 
   license: 
   license_url: 
