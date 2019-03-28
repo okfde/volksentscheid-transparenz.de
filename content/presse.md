@@ -20,7 +20,8 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 +49 163 191 4207
 
 ## Pressemitteilung
-21.2.2019: [**Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft**](/documents/2019_02_21_Pressemitteilung.pdf)
+28.3.2019: [**Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat**](/documents/2019_02_21_Pressemitteilung.pdf)
+21.2.2019: [**Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft**](/documents/2019.03.28 - Transparenzgesetz zur Kostenschätzung eingereicht.pdf)
 
 ## Logos und Material
 
