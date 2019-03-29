@@ -3,7 +3,7 @@
     <div class="l__inner">
       <a href="#content" class="show-on-focus skip">Skip to content</a>
       {{ with .Site.GetPage "/"}}
-        <a href="{{.Site.BaseURL}}" title="Startseite" class="c__logo l__logo">
+        <a href="/" title="Startseite" class="c__logo l__logo">
           {{ readFile "static/okf/Logo_VTB-02.svg" | safeHTML }}
         </a>
       {{end}}
