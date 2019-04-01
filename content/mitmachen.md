@@ -16,8 +16,8 @@ Du willst 1, 2 oder sogar 5 Stunden die Woche Unterschriften sammeln? Oder kenns
 
 Der Volksentscheid Transparenz will in den nächsten Monaten nicht zu übersehen sein. An jeder Ecke soll man über unsere Unterschriftenlisten stolpern. Du
 
-Prima, dann melde Dich bei Marie unter: <br><br>
-marie.juenemann@mehr-demokratie.de
+Prima, dann melde Dich bei Marie unter: <br>
+<a href="mailto:marie.juenemann@mehr-demokratie.de">marie.juenemann@mehr-demokratie.de</a>
 
 ## Workshops
 
@@ -46,9 +46,10 @@ Wir brauchen Unterstützung bei
 
 Gib uns Bescheid, dass Du Gestalter*in für mehr Transparenz in der Politik werden willst: 
 <br><br>
-team@volksentscheid-transparenz.de
+<a href="mailto:team@volksentscheid-transparenz.de">team@volksentscheid-transparenz.de</a>
+
 
 
 ## Du machst den Unterschied! 
-Deine Mutti strickt die wärmsten Strümpfe für unsere Unterschriftensammler im Winter? Du möchtest Dein Gesicht für die gute Sache zeigen? Du möchtest eine Kiezgruppe organisieren? Wo Deine Kontakte und Deine Stärken liegen, weißt Du am besten selbst. Teile es uns mit: <br><br>team@volksentscheid-transparenz.de
+Deine Mutti strickt die wärmsten Strümpfe für unsere Unterschriftensammler im Winter? Du möchtest Dein Gesicht für die gute Sache zeigen? Du möchtest eine Kiezgruppe organisieren? Wo Deine Kontakte und Deine Stärken liegen, weißt Du am besten selbst. Teile es uns mit: <br><br><a href="mailto:team@volksentscheid-transparenz.de">team@volksentscheid-transparenz.de</a>
 
