@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-03-28
 image:
-  src: 
+  src: /files/blog/2019/03/konfetti.gif
   title: 
   license: 
   license_url: 
@@ -12,7 +12,7 @@ tags:
 type: post
 layout: post
 card: true
-featured: yellow
+featured: blue
 title: Gesetzesentwurf zur Kostenschätzung eingereicht
 ---
 
