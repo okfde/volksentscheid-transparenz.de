@@ -18,13 +18,18 @@
 
 {{ define "main" }}
 <main>
-
-<section class="l__donation container align-items-end">
-   <div class="row l__team__title">
-      <h1 class="col col-9">{{ .Title }}</h1>
+<section class="l__finance container align-items-end">
+  <div class="row mt-0 l__content">
+    <div class="col col-12 col-md-8">
+      {{ .Content }}
     </div>
-  <div class="col-9 row mt-0 l__content">
-    {{ .Content }}
+    <div class="col col-12 col-md-3 offset-lg-1 mt-1">
+    <div class="teaser__inner">
+      <div class="teaser__img">
+      	<img src="/volksentscheid/mitmachen__teaser.png" alt="">
+      </div> 
+    </div>
+    </div>
   </div>
 </section>
 </main>
