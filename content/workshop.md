@@ -2,10 +2,12 @@
 title: Mitmachen
 meta: Mitmachen
 img_header: /okf/transparenz-social-og.png
-layout: mitmachen
+layout: presse
 
 ---
 # Erster Aktivenworkshop am 10.4.
+
+<img src="/volksentscheid/workshop.png" alt="" class="img-responsive">
 Wir veranstalten  unseren ersten Aktivenworkshop für den Volksentscheid Transparenz Berlin. 
 
 **Wann: 10.4. um 19:00 bis 21:00 Uhr** <br>

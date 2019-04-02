@@ -65,14 +65,15 @@
             </div>
 
             <div class="l__home__teaser col col-lg-6 col-md-6 col-xs-12">
-              <a href="/gruende">
+              <a href="/workshop">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/gruende/00_gruende__teaser-4.png" alt="" class="img-responsive">
+                    <img src="/volksentscheid/workshop.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
-                    <h3><a href="/gruende">9 Gründe für ein Transparenzgesetz</a></h3>
-                    <p>Mit unserem Transparenzgesetz schaffen wir eine neue Form der Kontrolle der Politik in Berlin und eine echte Basis für Mitbestimmung! In unserer Übersicht haben wir die Gründe für ein Transparenzgesetz zusammengestellt.</p>
+                    <h3><a href="/workshop">Aktivenworkshop am 10.4.</a></h3>
+                    <p>
+                      Wir veranstalten  unseren ersten Aktivenworkshop für den Volksentscheid Transparenz Berlin!</p>
                   </div>
                 </div>
               </a>
@@ -90,15 +91,14 @@
               </a>
             </div>
             <div class="l__home__teaser col col-lg-6 col-md-6 col-xs-12">
-              <a href="/workshop">
+              <a href="/gruende">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/volksentscheid/workshop.png" alt="" class="img-responsive">
+                    <img src="/gruende/00_gruende__teaser-4.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
-                    <h3><a href="/workshop">Aktivenworkshop am 10.4.</a></h3>
-                    <p>
-                      Wir veranstalten  unseren ersten Aktivenworkshop für den Volksentscheid Transparenz Berlin!</p>
+                    <h3><a href="/gruende">9 Gründe für ein Transparenzgesetz</a></h3>
+                    <p>Mit unserem Transparenzgesetz schaffen wir eine neue Form der Kontrolle der Politik in Berlin und eine echte Basis für Mitbestimmung! In unserer Übersicht haben wir die Gründe für ein Transparenzgesetz zusammengestellt.</p>
                   </div>
                 </div>
               </a>
@@ -129,17 +129,12 @@
         <div class="col col-10 mb-s">
           <h2>{{ i18n "home_blog_news" }}</h2>
         </div>
-
-        <ul class="l__blog__posts container mt-s">
-          {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
-          {{- partial "post_item.html" . -}}
-          {{ end }}
-        </ul>
-      </div>
-      <div class="mt-s">
-        <p>{{ with .Site.GetPage "/blog" }}
+        <div class="mt-s">
+          <p>{{ with .Site.GetPage "/blog" }}
           <a href="{{ .Permalink }}" class="hover">
             Alle Posts</a>{{ end }}</p>
+      </div>
+        {{- partial "featured_post.html" . -}}
       </div>
     </section>
 

@@ -9,7 +9,7 @@
 - id: home_all_posts
   translation: "Alle Posts"
 - id: home_blog_news
-  translation: "Blog"
+  translation: "Updates"
 - id: footer_contact
   translation: "Kontakt"
 - id: footer_signup
