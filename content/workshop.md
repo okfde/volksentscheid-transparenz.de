@@ -25,3 +25,4 @@ Wir wollen erreichen, dass auch Unternehmen, die öffentliche Aufgaben wahrnehme
 
 Interessieren Euch nicht auch Gutachten zur Trinkwasserqualität, Statistiken zum Baumbestand, Verkaufserlöse von landeseigenen Grundstücken und Immobilien, Kooperationen der Privatwirtschaft mit Universitäten, Gutachten des Senats zu laufenden Volksbegehren, wie aktuell zu Deutsche Wohnen enteignen, der Planungsstand geschützter Radstreifen und und und…?
 
+<a href="https://www.facebook.com/events/591959537984453/">Zur Facebook-Veranstaltung</a>
