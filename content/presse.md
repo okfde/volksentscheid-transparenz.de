@@ -12,19 +12,22 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 **Open Knowledge Foundation Deutschland:** <br>
 **Leonard Wolf**<br>
-**E-Mail:** presse@volksentscheid-transparenz.de<br>
+**E-Mail:** [presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
 **Telefon:**
 +49 30 57 70 36 662
 
 **Mehr Demokratie e. V. Landesverband Berlin/Brandenburg:**<br>
 **Oliver Wiedmann**<br>
-**E-Mail:** oliver.wiedmann@mehr-demokratie.de <br>
+**E-Mail:** [oliver.wiedmann@mehr-demokratie.de](mailto:oliver.wiedmann@mehr-demokratie.de?subject=Volksentscheid-Transparenz) <br>
 **Telefon:**
 +49 163 191 4207
 
 ## Pressemitteilung
-28.3.2019: [**Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat**](/documents/2019_02_21_Pressemitteilung.pdf)
-21.2.2019: [**Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft**](/documents/2019.03.28_-_Transparenzgesetz_zur_Kostenschätzung_eingereicht)
+<ul class="presse">
+<li> 28.3.2019: [**Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat**](/documents/2019_02_21_Pressemitteilung.pdf)</li>
+<li>21.2.2019: [**Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft**](/documents/2019.03.28_-_Transparenzgesetz_zur_Kostenschätzung_eingereicht)</li>
+</ul>
+<br>
 
 ## Logos und Material
 
