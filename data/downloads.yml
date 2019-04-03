@@ -1,4 +1,12 @@
 - de:
+    title: Logo
+    text: Unser Logo als .svg, .png und .jpg
+  path: /files/documents/Logo_Paket.zip
+- de:
+    title: Illustrationen
+    text: Unsere Illustrationen entwickelt von Laura Kunstmann und Nadine Stammen zur Weiterverwendung (CC BY-SA 3.0 DE)
+  path: /files/documents/Illustrationen.zip
+- de:
     title: Flyer „9 Gründe“
     text: Alle guten Gründe auf einem Handout zusammengetragen! Druckt es aus und verteilt es in der Stadt!
   path: /files/documents/Transparenzgesetz_Handout_Gruende.pdf
@@ -10,10 +18,6 @@
     title: Wickelfalzflyer
     text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien offen, die für alle Mitglieder und Mitarbeiter*innen, die Geschäftsführung und den Vorstand gelten.
   path: /files/documents/Transparenzgesetz_Wickelfalzflyer_Final.pdf
-- de:
-    title: Logo
-    text: Unser Logo als .svg, .png und .jpg
-  path: /files/documents/Logo_Paket.zip
 - de:
     title: Sticker
     text: Hier findest du unsere Top 3 Sticker-Hits „Fäns der Transparänz“, „Lobbyismus unter die Lupe nehmen“ und „Geheimverträge offenlegen“
