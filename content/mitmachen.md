@@ -14,7 +14,7 @@ Damit das Volksbegehren gelingt, brauchen wir Deine Unterstützung. Du kannst un
 ## Sammlung
 Du willst 1, 2 oder sogar 5 Stunden die Woche Unterschriften sammeln? Oder kennst gute Orte, um Listen für das Volksbegehren auszulegen? 
 
-Der Volksentscheid Transparenz will in den nächsten Monaten nicht zu übersehen sein. An jeder Ecke soll man über unsere Unterschriftenlisten stolpern. Du
+Der Volksentscheid Transparenz will in den nächsten Monaten nicht zu übersehen sein. An jeder Ecke soll man über unsere Unterschriftenlisten stolpern.
 
 Prima, dann melde Dich bei Marie unter: <br>
 <a href="mailto:marie.juenemann@mehr-demokratie.de">marie.juenemann@mehr-demokratie.de</a>
