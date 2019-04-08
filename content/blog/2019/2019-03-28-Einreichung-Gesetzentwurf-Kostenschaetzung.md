@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-03-28
 image:
-  src: /files/blog/2019/03/konfetti.gif
+  src: /files/blog/2019/03/konfetti_klein.gif
   title: 
   license: 
   license_url: 
