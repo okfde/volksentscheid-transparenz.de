@@ -24,8 +24,8 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Pressemitteilung
 <ul class="presse">
-<li> 28.3.2019: [Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat](/documents/2019_02_21_Pressemitteilung.pdf)</li>
-<li>21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/documents/2019.03.28_-_Transparenzgesetz_zur_Kostenschätzung_eingereicht)</li>
+<li> 28.3.2019: [Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat]</li>
+<li>21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/documents/2019_02_21_Pressemitteilung.pdf)</li>
 </ul>
 <br>
 
