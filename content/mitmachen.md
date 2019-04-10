@@ -57,20 +57,20 @@ Deine Mutti strickt die wärmsten Strümpfe für unsere Unterschriftensammler im
 <form action="https://formspree.io/mobilisierung@volksentscheid-transparenz.de" method="POST" >
   <div class="form-group">
     <label for="form-name">Dein Name</label>
-    <input type="text" class="form-control" id="form-name" placeholder="Dein Name" required>
+    <input type="text" name="name" class="form-control" id="form-name" placeholder="Dein Name" required>
   </div>
   <div class="form-group">
     <label for="form-email">Deine E-Mail</label>
-    <input type="email" class="form-control" id="form-email" placeholder="Deine E-Mail-Adresse" required>
+    <input type="email" name="email" class="form-control" id="form-email" placeholder="Deine E-Mail-Adresse" required>
   </div>
   <div class="form-group">
     <label for="form-telefon">Telefon</label>
-    <input type="text" pattern="[0-9 ]+" class="form-control" id="form-telefon" placeholder="015...">
+    <input type="text" name="telefon" pattern="[0-9 ]+" class="form-control" id="form-telefon" placeholder="015...">
     <small id="emailHelp" class="form-text text-muted">Optional</small>
   </div>
   <div class="form-group">
     <label for="form-comment">Dabei will ich mithelfen</label>
-    <textarea class="form-control" id="form-comment" rows="3" required></textarea>
+    <textarea class="form-control" name="comment" id="form-comment" rows="3" required></textarea>
   </div>
   <button type="submit" class="btn btn-warning btn-lg">
     Abschicken
