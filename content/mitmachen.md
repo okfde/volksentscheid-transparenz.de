@@ -23,7 +23,7 @@ Prima, dann melde Dich bei Marie unter: <br>
 
 Wir bieten regelmäßig Workshops an, damit Du mit guten Argumenten andere begeistern kannst. In dem Workshop wird erklärt, warum Transparenz in der Politik so wichtig ist, was in Berlin im Moment schief läuft und wie wir das alles ändern wollen. Außerdem zeigen wir Dir, wie Du auf Menschen zugehst, sie von einer transparenten Politik für Berlin überzeugst und dazu bewegst, dass Volksbegehren zu unterschreiben. Ganz einfach und auf Deine Weise.
 
-#### Nächster Workshop-Termin: 23.04.2019
+#### Nächster Workshop-Termin: 09.05.2019
 
 
 
