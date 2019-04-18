@@ -21,9 +21,5 @@ Im Sommer 2019 werden wir anfangen, Unterschriften zu sammeln. Innerhalb von sec
 
 ## Wer steckt dahinter?
 
-Wir sind ein großes Bündnis aus verschiedenen Organisationen. 
-
-
-Gegründet wurde die Initiative von der Open Knowledge Foundation Deutschland e.V. Seit sechs Jahren setzt sich der Verein für offenes Wissen, offene Daten, Transparenz und Beteiligung ein und unterstützt mit dem Portal FragDenStaat.de Bürgerinnen und Bürger dabei, ihr Recht auf Erhalt amtlicher Informationen von deutschen Behörden wahrzunehmen. Die Arbeit im Projekt zeigt, dass die gesetzlichen Grundlagen zur Informationsfreiheit nicht ausreichend sind. Sie müssen verbessert werden, um eine effektive Durchsetzung des Rechts auf Zugang zu Informationen zu ermöglichen.
-
-
+Wir sind ein großes Bündnis aus verschiedenen Organisationen. Der Steuerungskreis besteht aus dem Open Knowledge Foundation Deutschland e.V. (OKF) und Mehr Demokratie e.V., die beide derzeit das Bündnis finanzieren. Ein großer Kreis von Unterstützerinnen trägt das Bündnis.
+Gegründet wurde die Initiative von der OKF. Seit acht  Jahren setzt sich der Verein für offenes Wissen, offene Daten, Transparenz und Beteiligung ein und unterstützt mit dem Portal FragDenStaat.de Bürgerinnen und Bürger dabei, ihr Recht auf Erhalt amtlicher Informationen von deutschen Behörden wahrzunehmen. Die Arbeit im Projekt zeigt, dass die gesetzlichen Grundlagen zur Informationsfreiheit nicht ausreichend sind. Sie müssen verbessert werden, um eine effektive Durchsetzung des Rechts auf Zugang zu Informationen zu ermöglichen.
