@@ -15,7 +15,7 @@ layout: post
 card: true
 featured: yellow
 title: Berliner Verfassungsschutzgesetz europarechtswidrig - Neues Gesetz muss für echte Transparenz sorgen
-aliases
+aliases:
   - /blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-für-echte-transparenz-sorgen-1/
 ---
 
