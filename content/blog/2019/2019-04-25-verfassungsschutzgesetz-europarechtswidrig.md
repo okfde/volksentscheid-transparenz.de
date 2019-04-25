@@ -33,3 +33,4 @@ Der Berliner Verfassungsschutz blickt auf eine Reihe von Skandalen in den vergan
 
 Mehr Infos zur Klage: https://fragdenstaat.de/blog/2019/04/25/klage-erfolgreich-berliner-verfassungsschutz-muss-auskunft-geben/ 
 
+(Bild: "Altes Stadthaus" von David Merrett, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
