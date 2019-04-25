@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-04-25
 image:
-  src: /03/verfassungsschutz.jpg
+  src: /files/blog/2019/03/verfassungsschutz.jpg
   title: 
   license: David Merrett, CC BY 2.0
   license_url: https://creativecommons.org/licenses/by/2.0/
