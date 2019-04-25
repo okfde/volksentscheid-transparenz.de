@@ -24,8 +24,9 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Pressemitteilung
 <ul class="presse">
-<li> 28.3.2019: [Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat](/documents/2019_03_28_Transparenzgesetz_zur_Kostenschätzung_eingereicht.pdf)</li>
-<li>21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/documents/2019_02_21_Pressemitteilung.pdf)</li>
+<li> 25.4.2019: [Berliner Verfassungsschutzgesetz europarechtswidrig: Neues Gesetz muss für echte Transparenz sorgen](/blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-für-echte-transparenz-sorgen/)</li>
+<li> 28.3.2019: [Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat](/documents/2019_03_28_Transparenzgesetz_zur_Kostenschätzung_eingereicht.pdf)</li>
+<li> 21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/documents/2019_02_21_Pressemitteilung.pdf)</li>
 </ul>
 <br>
 
