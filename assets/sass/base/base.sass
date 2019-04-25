@@ -80,7 +80,7 @@ a
   font-weight: 700
   font-size: 18px
 
-.module__half 
+.module__half
   width: 50%
 
 li
@@ -89,3 +89,28 @@ li
 li:hover
   color: $anchor
 
+figure.license
+  position: relative
+  font-family: 'Apercu', sans-serif
+  font-weight: 500
+  figcaption
+    position: absolute
+    //text-shadow: 1px 0px black
+    bottom: 8px
+    left: 8px
+    color: #FFEC00
+    //background-color: rgba(black, 0.4)
+    padding: 0 .4em
+    font-size: 10px
+    //max-width: 200px
+    opacity: 0
+    transition: opacity 200ms ease
+  a
+    text-decoration: underline
+    color: #FFEC00
+  img
+    width: 100%
+  &:hover,
+  &:active
+    figcaption
+      opacity: 1
