@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 featured: yellow
-title: Berliner Verfassungsschutzgesetz europarechtswidrig: Neues Gesetz muss für echte Transparenz sorgen
+title: Berliner Verfassungsschutzgesetz europarechtswidrig - Neues Gesetz muss für echte Transparenz sorgen
 ---
 
 Der Berliner Verfassungsschutz muss Auskunft über Umweltinformationen geben. Das hat das Verwaltungsgericht Berlin heute nach einer Klage der Plattform FragDenStaat.de klargestellt. Demnach verstößt eine Regelung des Verfassungsschutzgesetzes Berlin, die den Geheimdienst von der Auskunftspflicht ausnimmt, gegen das Europarecht. 
