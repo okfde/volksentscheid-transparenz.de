@@ -19,6 +19,13 @@ Der Volksentscheid Transparenz will in den nächsten Monaten nicht zu übersehen
 Prima, dann melde Dich bei Marie unter: <br>
 <a href="mailto:marie.juenemann@mehr-demokratie.de">marie.juenemann@mehr-demokratie.de</a>
 
+## Workshops
+
+Wir bieten regelmäßig Workshops an, damit Du mit guten Argumenten andere begeistern kannst. In dem Workshop wird erklärt, warum Transparenz in der Politik so wichtig ist, was in Berlin im Moment schief läuft und wie wir das alles ändern wollen. Außerdem zeigen wir Dir, wie Du auf Menschen zugehst, sie von einer transparenten Politik für Berlin überzeugst und dazu bewegst, dass Volksbegehren zu unterschreiben. Ganz einfach und auf Deine Weise.
+
+#### Nächste Workshop-Termine: 22.05.2019, 03.06.2019, 19.06.2019, 29.6. (auf dem Tempelhofer Feld), 11.07.2019
+
+
 
 ## Arbeitsgruppen
 
