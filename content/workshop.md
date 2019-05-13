@@ -5,15 +5,12 @@ img_header: /okf/transparenz-social-og.png
 layout: presse
 
 ---
-# Nächster Aktivenworkshop am 9.5.
+# Unsere Aktivenworkshops
 
-<img src="/volksentscheid/workshop.png" alt="" class="img-responsive">
-Wir veranstalten  unseren ersten Aktivenworkshop für den Volksentscheid Transparenz Berlin. 
+<img src="/volksentscheid/workshop_3.png" alt="" class="img-responsive">
 
-**Wann: 9.5. um 19:00 Uhr** <br>
-**Wo: Im Büro von Mehr Demokratie e.V.** <br>
-**Greifswalder Str. 4.**
-**10405 Berlin**
+### Termine: 22.05. | 03.06. | 19.06. | 29.6. auf dem Tempelhofer Feld | 11.07.
+### Wo: Haus der Demokratie und Menschenrechte, Greifswalder Str. 4., 10405 Berlin
 
 ## Worum geht es?
 Wer einmal versucht hat, Einsicht in wichtige Akten und Entscheidungen der Berliner Verwaltung zu bekommen, weiß, wie mühselig das ist. Die wirklich brisanten Informationen werden oft nur widerwillig oder gar nicht herausgegeben. Wenn doch, dann dauert es und kostet teils hohrende Gebühren.
@@ -26,4 +23,4 @@ Das sind zum Beispiel Senatsbeschlüsse, Gutachten, Stellungnahmen, Vergabeentsc
 
 Wir wollen erreichen, dass auch Unternehmen, die öffentliche Aufgaben wahrnehmen, wichtige Informationen herausgeben müssen. Darunter fallen beispielsweise die landeseigenen Wohnungsbaugesellschaften oder die Grün Berlin GmbH, die Grünflächen und Parks in Berlin verwaltet. Kaum zu glauben, aber diese müssen bisher keine Informationen preisgeben.
 
-Interessieren Euch nicht auch Gutachten zur Trinkwasserqualität, Statistiken zum Baumbestand, Verkaufserlöse von landeseigenen Grundstücken und Immobilien, Kooperationen der Privatwirtschaft mit Universitäten, Gutachten des Senats zu laufenden Volksbegehren, wie aktuell zu Deutsche Wohnen enteignen, der Planungsstand geschützter Radstreifen und und und…?
+

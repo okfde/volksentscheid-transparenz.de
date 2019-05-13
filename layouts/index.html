@@ -65,15 +65,15 @@
             </div>
 
             <div class="l__home__teaser col col-12 col-sm-12 col-md-6 col-lg-6">
-              <a href="/workshop">
+              <a href="/mitmachen">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/volksentscheid/workshop.png" alt="" class="img-responsive">
+                    <img src="/volksentscheid/mitmachen.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
-                    <h3><a href="/workshop">Nächster Aktivenworkshop am 9.5.</a></h3>
+                    <h3><a href="/mitmachen">Dringend Unterstützung gebraucht!</a></h3>
                     <p>
-                      Wir veranstalten regelmäßig Aktivenworkshops für den Volksentscheid Transparenz Berlin!</p>
+                      Wir brauchen jede Menge Unterstützung in unseren AGs. Egal, ob in der Außenkommunikation, der Kampagne, der Organisation von Aktionen oder dem Sammeln von Unterschriften, wir freuen uns über jede helfende Hand! Melde dich am besten über unser Formular.</p>
                   </div>
                 </div>
               </a>
@@ -124,12 +124,115 @@
       </div>
     </section>
 
+    <section class="l__content mb-l">
+      <div class="container">
+        <div class="row">
+          <div class="l__home__teaser col col-12 col-sm-12 col-md-6 col-lg-6">
+            <a href="/workshop">
+              <div class="l__home teaser__content">
+                <h2>Unsere Aktivenworkshops</h2>
+              </div>
+              <div class="l__home__teaser__inner mt-s">
+                <div class="l__home__teaser__img">
+                  <img src="/volksentscheid/workshop_3.png" alt="" class="img-responsive">
+                </div> 
+              </div>
+            </a>
+            <div class="l__home teaser__content">
+              <p>
+                Wir veranstalten regelmäßig Aktivenworkshops und erklären, warum mehr Transparenz in der Politik notwendig ist, was in Berlin schief läuft, wie wir das ändern wollen und wie man am besten Unterschriften sammelt.</p>
+            </div>
+          </div>
+          <div class="col col-lg-5 col-md-5 offset-md-1 offset-lg-1">
+            <h2>Unsere nächsten Termine</h2>
+            <div class="date--item mt-s">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>13.5.</strong><br>18:00</p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Unser Unterstützer*innenkreis</strong><br>
+                    Haus der Demokratie und Menschenrechte,<br> Greifswalder Str. 4, 10405 Berlin</p>
+                </div>
+              </div>
+            </div>
+            <div class="date--item">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>21.5.</strong><br>19:00</p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Vorstellung der Initiative beim attac Gruppentreffen</strong><br>
+                    Grünberger Str. 24, 10243 Berlin</p>
+                </div>
+              </div>
+            </div>
+            <div class="date--item">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>22.5.</strong><br>19:00</p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Aktivenworkshop für Einsteiger*innen</strong><br>
+                  Haus der Demokratie und Menschenrechte, Greifswalder Str. 4, 10405 Berlin</p>
+                </div>
+              </div>
+            </div>
+            <div class="date--item">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>25.5.</strong></p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Jubiläum Jahrestag Tempelhofer Feld</strong><br>
+                  Trefft uns am Infostand!</p>
+                </div>
+              </div>
+            </div>
+            <div class="date--item">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>27.5.</strong><br>18:00</p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Unser Unterstützer*innenkreis</strong><br>
+                    Alle Interessierten sind herzlich willkommen! Haus der Demokratie und Menschenrechte, Greifswalder Str. 4, 10405 Berlin</p>
+                </div>
+              </div>
+            </div>
+            <div class="date--item">
+              <div class="row">
+                <div class="col-2">
+                  <p><strong>2.6.</strong><br>15:00</p>
+                </div>
+                <div class="col-10">
+                  <p><strong>Feldmusik auf dem Tempelhofer Feld</strong><br>
+                  beim Haus104</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+<!--
     <section class="container mt-l mb-l">
       <div class="row justify-between">
-        <div class="col col-10 mb-s">
+        <div class="col col-6">
+          <h2>Unsere nächsten Termine</h2>
+          {{- partial "dates" . -}}
+        </div>
+      </div>
+    </section>
+-->
+
+
+    <section class="container mt-l mb-l">
+      <div class="row justify-between">
+        <div class="col col-11 mb-s">
           <h2>{{ i18n "home_blog_news" }}</h2>
         </div>
-        <div class="mt-s">
+        <div class="">
           <p>{{ with .Site.GetPage "/blog" }}
           <a href="{{ .Permalink }}" class="hover">
             Alle Posts</a>{{ end }}</p>
@@ -138,18 +241,19 @@
       </div>
     </section>
 
+
     <section class="l__content">
       <div class="l__content__partner__white mt-l mb-l col col-10 offset-lg-1">
         <h3> Eine Initiative von</h3>
         <div class="row">
-          <div class="col col-xs-12 col-md-3">
+          <div class="col col-xs-5 col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/OKFN.png" alt="Logo OKFDE"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-3">
+          <div class="col col-sm-6 col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                   <img src="/partner/md.png" alt="Logo Mehr Demokratie"/>
@@ -159,121 +263,129 @@
         </div>
         <h3>Unterstützerinnen</h3>
         <div class="row">
-          <div class="col col-xs-12 col-md-2">
+          <div class="col-sm-6 col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/aw.png" alt="Logo Abgeordnetenwatch"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-2">
+          <div class="col-sm-6 col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/wmde-logo.png" alt="Logo Wikimedia"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-2">
+          <div class="col-sm-6 col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/digiges.png" alt="Logo Digitale Gesellschaft"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/nr.png" alt="Logo Netzwerk Recherche"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/CCC.png" alt="Logo CCC"/>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/openpetition-logo.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/fiff.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/RoG.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/lobbycontrol.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/changingcities.png"/>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/humanistischeunion.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/omnibus.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/foodwatch.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/werbefrei.png"/>
               </div>
             </div>
           </div>
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/liga_menschenrechte.png"/>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col col-xs-12 col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-2">
             <div class="l__home__teaser__inner">
               <div class="l__home__teaser__img">      
                 <img class="img-responsive" src="/partner/haus_menschenrechte.png"/>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/institut_soziale_fragen.png"/>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-2">
+            <div class="l__home__teaser__inner">
+              <div class="l__home__teaser__img">      
+                <img class="img-responsive" src="/partner/wassertisch.png"/>
               </div>
             </div>
           </div>

@@ -175,6 +175,13 @@
   background-color: white
 
 
+.date--item
+  margin-top: -2.5em
+  &:first-child
+    margin-top: 1em
+
+
+
 .u04-subscribe
   background: $peach
   padding-top: 5px
@@ -183,6 +190,8 @@
   position: relative
   margin-bottom: 100px
   hyphens: none
+  a
+    text-decoration: none
 
 .u04-subscribe__wrapper 
   margin-left: auto
@@ -208,7 +217,7 @@
     margin-top: 0px
 
 .u04-subscribe__marquee-content 
-  color: $blue
+  color: $bright-blue
   font-size: 3em
   font-weight: 500
   line-height: 1
@@ -216,6 +225,9 @@
   pointer-events: none
   animation: marquee 10s linear 0s infinite normal both running
   margin: 0px
+  a, a:hover
+    color: $blue
+
 
 .u04-subscribe__marquee-content:hover, .u04-subscribe__marquee-content:active
   text-decoration: none !important

@@ -1,0 +1,16 @@
+{{ with .Site.GetPage "/dates"}}
+<div class="date--item">
+  {{ with .Params.dates }}
+  <div class="col-lg-2">
+     <p><strong>{{.date}}</strong><br>
+      {{.time}}
+    </p>
+  </div>
+  <div class="col-lg-10">
+  	<p><strong>{{.title}}</strong><br>
+  		{{.text}}
+  	</p>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

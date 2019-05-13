@@ -11,16 +11,12 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 ## Kontakt
 
 **Open Knowledge Foundation Deutschland:** <br>
-**Leonard Wolf**<br>
+**Leonard Wolf und Oliver Wiedmann**<br>
 **E-Mail:** [presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
-**Telefon:**
-+49 30 57 70 36 662
+**Telefon:** +49 30 57 70 36 662<br>
+**Mobil:** +49 163 191 4207
 
-**Mehr Demokratie e. V. Landesverband Berlin/Brandenburg:**<br>
-**Oliver Wiedmann**<br>
-**E-Mail:** [oliver.wiedmann@mehr-demokratie.de](mailto:oliver.wiedmann@mehr-demokratie.de?subject=Volksentscheid-Transparenz) <br>
-**Telefon:**
-+49 163 191 4207
+
 
 ## Pressemitteilung
 <ul class="presse">
