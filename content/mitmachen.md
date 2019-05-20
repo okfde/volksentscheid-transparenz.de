@@ -10,9 +10,38 @@ layout: mitmachen
 Damit das Volksbegehren gelingt, brauchen wir Deine Unterstützung. Du kannst unser Vorhaben vielfältig mitgestalten: Alles steht und fällt mit der Sammlung der Unterschriften. Damit Du dafür gut gerüstet bist, bieten wir regelmäßig Sammelworkshops an. Bei unseren Arbeitsgruppen kannst du das Volksbegehren selbst aktiv mitgestalten. 
 
 
+## Du willst mitmachen? Schreib uns einfach 
+Du möchtest mit deiner Expertise eine Arbeitsgruppe unterstützen, aktiv sammeln oder eine Kiezgruppe organisieren? Wo deine Stärken liegen, weißt Du am besten selbst.
+
+
+
+<form action="https://formspree.io/mobilisierung@volksentscheid-transparenz.de" method="POST" >
+  <div class="form-group">
+    <label for="form-name">Dein Name</label>
+    <input type="text" name="name" class="form-control" id="form-name" placeholder="Dein Name" required>
+  </div>
+  <div class="form-group">
+    <label for="form-email">Deine E-Mail</label>
+    <input type="email" name="email" class="form-control" id="form-email" placeholder="Deine E-Mail-Adresse" required>
+  </div>
+  <div class="form-group">
+    <label for="form-telefon">Telefon</label>
+    <input type="text" name="telefon" pattern="[0-9 ]+" class="form-control" id="form-telefon" placeholder="015...">
+    <small id="emailHelp" class="form-text text-muted">Optional</small>
+  </div>
+  <div class="form-group">
+    <label for="form-comment">Dabei will ich mithelfen</label>
+    <textarea class="form-control" name="comment" id="form-comment" rows="3" required></textarea>
+  </div>
+  <button type="submit" class="btn btn-warning btn-lg">
+    Abschicken
+  </button>
+</form>
+
+# Wo wir dringend Unterstützung brauchen: 
 
 ## Sammlung
-Du willst 1, 2 oder sogar 5 Stunden die Woche Unterschriften sammeln? Oder kennst gute Orte, um Listen für das Volksbegehren auszulegen? 
+Kein Volksbegehren ohne Unterschriften. Du willst 1, 2 oder sogar 5 Stunden die Woche Unterschriften sammeln? Oder kennst gute Orte, um Listen für das Volksbegehren auszulegen? 
 
 Der Volksentscheid Transparenz will in den nächsten Monaten nicht zu übersehen sein. An jeder Ecke soll man über unsere Unterschriftenlisten stolpern.
 
@@ -44,33 +73,7 @@ Du bist in folgenden Themen motiviert oder erkennst Deine Stärken wieder? Dann 
 </ul>
 
 
-## Du willst mitmachen? Schreib uns einfach 
-Du möchtest mit deiner Expertise eine Arbeitsgruppe unterstützen, aktiv sammeln oder eine Kiezgruppe organisieren? Wo deine Stärken liegen, weißt Du am besten selbst.
 
-
-
-<form action="https://formspree.io/mobilisierung@volksentscheid-transparenz.de" method="POST" >
-  <div class="form-group">
-    <label for="form-name">Dein Name</label>
-    <input type="text" name="name" class="form-control" id="form-name" placeholder="Dein Name" required>
-  </div>
-  <div class="form-group">
-    <label for="form-email">Deine E-Mail</label>
-    <input type="email" name="email" class="form-control" id="form-email" placeholder="Deine E-Mail-Adresse" required>
-  </div>
-  <div class="form-group">
-    <label for="form-telefon">Telefon</label>
-    <input type="text" name="telefon" pattern="[0-9 ]+" class="form-control" id="form-telefon" placeholder="015...">
-    <small id="emailHelp" class="form-text text-muted">Optional</small>
-  </div>
-  <div class="form-group">
-    <label for="form-comment">Dabei will ich mithelfen</label>
-    <textarea class="form-control" name="comment" id="form-comment" rows="3" required></textarea>
-  </div>
-  <button type="submit" class="btn btn-warning btn-lg">
-    Abschicken
-  </button>
-</form>
 
 
 <section class="l__content mb-l">
