@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 featured: yellow
-title: Volksbegehren unzulässig: Akteneinsicht verweigert - Initiative fordert neue gesetzliche Regelungen
+title: Volksbegehren unzulässig - Akteneinsicht verweigert - Initiative fordert neue gesetzliche Regelungen
 
 ---
 
