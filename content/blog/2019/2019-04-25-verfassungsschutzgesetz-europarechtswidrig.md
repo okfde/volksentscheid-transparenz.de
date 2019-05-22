@@ -12,7 +12,7 @@ tags:
 - Klage
 type: post
 layout: post
-card: true
+card: false
 featured: yellow
 title: Berliner Verfassungsschutzgesetz europarechtswidrig - Neues Gesetz muss für echte Transparenz sorgen
 aliases:
