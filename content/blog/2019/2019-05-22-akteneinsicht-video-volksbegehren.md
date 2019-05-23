@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-05-22
 image:
-  src: /files/blog/2019/03/verfassungsschutz.jpg
+  src: /files/blog/2019/05/annoyed.gif
   title: 
   license: 
   license_url: 
@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 featured: yellow
-title: Volksbegehren unzulässig - Akteneinsicht verweigert - Initiative fordert neue gesetzliche Regelungen
+title: Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz
 
 ---
 
