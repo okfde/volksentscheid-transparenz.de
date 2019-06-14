@@ -26,7 +26,7 @@ Erst starten wir mit einem kurzen Überblick, wie das Berliner Informationsfreih
 
 Auch wenn ihr schon IFG-Anfragen an Berliner Behörden gestellt und eventuell sogar schon Antworten erhalten habt, aber nun nicht wisst, wie es weiter gehen soll, könnt ihr gerne vorbei kommen. Wir gucken uns zusammen mit euch die Anfragen an und überlegen gemeinsam, wie ihr reagieren könnt.
 
-Von völligen Anfänger*innen bis hin zu IFG-Profis, sind alle herzlich eingeladen. Natürlich sorgen wir auch für Getränke und Verpflegung, so dass es ein schöner Abend wird und wir gleichzeitig auf dem Weg zu einem Transparenzgesetz die Stadt schon transparenter machen!
+Von völligen Anfänger\*innen bis hin zu IFG-Profis, sind alle herzlich eingeladen. Natürlich sorgen wir auch für Getränke und Verpflegung, so dass es ein schöner Abend wird und wir gleichzeitig auf dem Weg zu einem Transparenzgesetz die Stadt schon transparenter machen!
 
 **Hard facts:**
 Was? Gemeinsam IFG-Anfragen an Berliner Behörden stellen
