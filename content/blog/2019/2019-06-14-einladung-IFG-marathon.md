@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-06-14
 image:
-  src: static/files/blog/2019/05/in_formation.gif
+  src: /files/blog/2019/05/in_formation.gif
   title: 
   license: 
   license_url: 
