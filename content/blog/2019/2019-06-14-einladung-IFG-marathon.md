@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 featured: yellow
-title: Einaldung: Berliner IFG-Marathon am 20.Juni
+title: Einladung - Berliner IFG-Marathon am 20.Juni
 
 ---
 
