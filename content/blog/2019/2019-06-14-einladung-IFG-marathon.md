@@ -30,6 +30,9 @@ Von völligen Anfänger\*innen bis hin zu IFG-Profis, sind alle herzlich eingela
 
 **Hard facts:**
 Was? Gemeinsam IFG-Anfragen an Berliner Behörden stellen
+
 Wann? 20. Juni 2019, ab 18 Uhr
+
 Wo? Open Knowledge Foundation DE e.V., Singerstraße 109, 10179 Berlin
+
 Wer? Alle Fäns der Transparänz!
