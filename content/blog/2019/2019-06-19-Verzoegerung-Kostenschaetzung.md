@@ -15,7 +15,7 @@ type: post
 layout: post
 card: true
 featured: yellow
-title: Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Beginn aus
+title: Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Start aus
 
 
 ---
