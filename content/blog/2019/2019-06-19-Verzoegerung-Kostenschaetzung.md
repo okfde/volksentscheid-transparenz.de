@@ -8,8 +8,8 @@ image:
   license: 
   license_url: 
 tags:
-- Verzoegerung
-- Kostenschaetzung
+- Verzögerung
+- Kostenschätzung
 - Senatsverwaltung
 type: post
 layout: post
