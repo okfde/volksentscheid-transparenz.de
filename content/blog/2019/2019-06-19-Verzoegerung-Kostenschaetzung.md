@@ -20,7 +20,7 @@ title: Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Begin
 
 ---
 
-Aufgrund von Verzögerungen in der Senatsinnenverwaltung muss das Volksbegehren zur Einführung eines Transparenzgesetzes seinen ursprünglich für Mitte Juni geplanten Start um sechs Wochen verschieben. 
+Aufgrund von Verzögerungen in der Senatsinnenverwaltung muss das Volksbegehren zur Einführung eines Transparenzgesetzes seinen ursprünglich für Mitte Juni geplanten Start der Unterschriftensammlung um sechs Wochen verschieben. 
 
 Die Senatsverwaltung für Inneres teilte dem Bündnis mit, dass mit der amtlichen Kostenschätzung nicht vor Ende Juli zu rechnen sei. Dies führt dazu, dass die Initiative ihren Zeitplan aufgrund des Verzugs durch den Senat neu anpassen und umgestalten muss. Die mehr als drei Monate, die die Initiative für die Kostenschätzung eingeplant hatte, basierten auf der Grundlage von Erfahrungen bei anderen Volksbegehren und boten der Senatsverwaltung einen ausreichend großen Zeitraum zum Schätzen der Kosten.
 
