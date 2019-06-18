@@ -5,8 +5,8 @@ date: 2019-06-18
 image:
   src: /files/blog/2019/03/verfassungsschutz.jpg
   title: 
-  license: 
-  license_url: 
+  license: David Merrett, CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
 - Verzögerung
 - Kostenschätzung
