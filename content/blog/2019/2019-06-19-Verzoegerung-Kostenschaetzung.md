@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-06-18
 image:
-  src: 
+  src: /files/blog/2019/03/verfassungsschutz.jpg
   title: 
   license: 
   license_url: 
