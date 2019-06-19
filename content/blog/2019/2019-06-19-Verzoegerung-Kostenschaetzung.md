@@ -31,3 +31,5 @@ Doch nun wird die Verzögerung mit dem Umfang und der Komplexität des Gesetzent
 „Auch wenn unser Transparenzgesetz die Informationsrechte der Bürger grundlegend neu regelt, so sind vier Monate für eine überschlägige Schätzung deutlich zu lang,“ kritisiert Leonard Wolf von der Open Knowledge Foundation Deutschland.
 
 Der Gesetzesentwurf des Bündnisses sieht vor, dass Politik und Verwaltung transparenter werden und eine stärkere Rechenschaftspflicht den Berliner\*innen gegenüber haben. So soll ein Transparenzportal eingerichtet werden, in dem die Verwaltung wichtige Informationen wie Verträge, Gutachten, Vergabedaten und Senatsentscheidungen, die bisher zurückgehalten werden können, proaktiv veröffentlichen müssen. Außerdem stärkt der Entwurf durch kürzere Bearbeitungsfristen und wegfallende Gebühren auch die Informationsrechte der Bürger\*innen bei Anfragen im Allgemeinen.
+
+(Bild: <a href="https://www.flickr.com/photos/davehamster/36973653860/">"Altes Stadthaus"</a> von David Merrett, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)
