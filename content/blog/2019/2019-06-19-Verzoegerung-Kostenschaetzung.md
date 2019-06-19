@@ -8,6 +8,7 @@ image:
   license: David Merrett, CC BY 2.0
   license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
+- Pressemitteilung
 - Verzögerung
 - Kostenschätzung
 - Senatsverwaltung
