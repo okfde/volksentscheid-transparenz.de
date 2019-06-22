@@ -9,7 +9,9 @@ Singerstr. 109<br>
 10179 Berlin</br>
 Deutschland
 
-**E-Mail:** info@okfn.de [<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFE54F46F21DDAED1">OpenPGP</a>]<br>
+**Vertrauenspersonen i.S.d. § 6 AbstG**: Marie Jünemann, Olof Leps, Lea Pfau, Arne Semsrott, Oliver Wiedmann
+
+**E-Mail:** team@volksentscheid-transparenz.de<br>
 **Telefon:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
