@@ -20,6 +20,8 @@ Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Pressemitteilung
 <ul class="presse">
+<li> 18.6.2019: [Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Start aus](/blog/2019/06/senatsverwaltung-bremst-bündnis-für-transparenzgesetz-bereits-vor-start-aus/)</li>
+<li> 25.5.2019: [Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz](/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/)</li>
 <li> 25.4.2019: [Berliner Verfassungsschutzgesetz europarechtswidrig: Neues Gesetz muss für echte Transparenz sorgen](/blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-für-echte-transparenz-sorgen/)</li>
 <li> 28.3.2019: [Berliner Transparenzgesetz zur Kostenschätzung eingereicht: Zivilgesellschaft macht Druck auf Senat](/documents/2019_03_28_Transparenzgesetz_zur_Kostenschätzung_eingereicht.pdf)</li>
 <li> 21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/documents/2019_02_21_Pressemitteilung.pdf)</li>
