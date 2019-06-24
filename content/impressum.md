@@ -50,7 +50,7 @@ Die Open Knowledge Foundation Deutschland e. V., Singerstr. 109, 10179 Berlin De
 
 Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche Daten in welcher Form verarbeitet werden, wenn Sie unsere Website besuchen. Hiermit kommen wir zugleich unserer Informationspflicht gem. Art. 13 Datenschutz-Grundverordnung (DS-GVO) Ihnen gegenüber nach.
 
-### I. Verantwortlicher und Kontaktmöglichkeiten des Datenschutzbeauftragten
+### I. Verantwortliche und Kontaktmöglichkeiten der Datenschutzbeauftragten
 
 Die datenschutzrechtlich Verantwortliche für die auf unserer Website stattfindenden Datenverarbeitungen ist die
 
