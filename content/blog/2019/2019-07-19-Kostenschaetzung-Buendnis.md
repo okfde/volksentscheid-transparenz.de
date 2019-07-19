@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-07-19
 image:
-  src: static/files/blog/2019/07/rathaus+lupe.png
+  src: /files/blog/2019/07/rathaus+lupe.png
   title:
   license:
   license_url:
