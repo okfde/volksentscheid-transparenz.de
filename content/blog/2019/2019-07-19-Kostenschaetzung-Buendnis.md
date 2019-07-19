@@ -9,6 +9,7 @@ image:
   license_url:
 tags:
 - Kostenschätzung
+- Pressemitteilung
 type: post
 layout: post
 card: true
