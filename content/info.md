@@ -7,7 +7,7 @@ box_title: Nur mit viel Unterstützung können wir das Transparenzgesetz auf den
 box_link_name: Jetzt mitmachen!
 ---
 
-## Der Volksentscheid
+## Der Volks&shy;entscheid
 Mit einem Volksentscheid können wir das Transparenzgesetz für Berlin verbindlich durchsetzen! Startschuss ist im Sommer 2019: Innerhalb von sechs Monaten müssen 20.000 Unterschriften gesammelt werden. Übernimmt das Abgeordnetenhaus unseren Vorschlag danach nicht, bleiben wir hartnäckig und gehen Ende 2020 ins Volksbegehren. Innerhalb von vier Monaten müssen dann 175.000 Berliner*innen unterschreiben, um einen Volksentscheid einzuleiten. Der Volksentscheid wird nach diesem Plan am Tag der Bundestagswahl im Herbst 2021 stattfinden.
 
 <br><br><br>
