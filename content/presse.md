@@ -16,9 +16,9 @@ Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
 [arne.semsrott@okfn.de](mailto:arne.semsrott@okfn.de?subject=Volksentscheid-Transparenz)<br>
 
-**Leonard Wolf<br>
+Leonard Wolf<br>
 [presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
-**Telefon:** +49 30 57 70 36 662<br>
+Telefon: +49 30 57 70 36 662<br>
 
 
 ## Pressemitteilung
