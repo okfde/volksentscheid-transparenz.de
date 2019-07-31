@@ -10,14 +10,14 @@ layout: presse
 Marie Jünemann<br>
 Telefon: 030 420 823 70<br>
 Mobil: 015 205 794 139<br>
-marie.juenemann@mehr-demokratie.de<br>
+[marie.juenemann@mehr-demokratie.de](mailto:marie.juenemann@mehr-demokratie.de?subject=Volksentscheid-Transparenz)<br>
 
 Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
-arne.semsrott@okfn.de <br>
+[arne.semsrott@okfn.de](mailto:arne.semsrott@okfn.de?subject=Volksentscheid-Transparenz)<br>
 
 **Leonard Wolf<br>
-**E-Mail:** [presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
+[presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
 **Telefon:** +49 30 57 70 36 662<br>
 
 
