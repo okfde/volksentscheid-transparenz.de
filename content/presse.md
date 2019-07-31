@@ -9,6 +9,16 @@ layout: presse
 Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unserem Volksentscheid hast oder eine*n Interviewpartner*in benötigst, wende dich bitte an unser Presse-Team. Wir helfen dir gerne weiter!
 
 ## Kontakt
+Marie Jünemann<br>
+Telefon: 030 420 823 70<br>
+Mobil: 015 205 794 139<br>
+marie.juenemann@mehr-demokratie.de<br>
+
+Arne Semsrott<br>
+Telefon: 030 577 036 660<br>
+arne.semsrott@okfn.de <br>
+
+
 
 **Open Knowledge Foundation Deutschland:** <br>
 **Leonard Wolf und Oliver Wiedmann**<br>
