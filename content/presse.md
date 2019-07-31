@@ -15,9 +15,7 @@ Mobil: 015 205 794 139<br>
 Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
 [arne.semsrott@okfn.de](mailto:arne.semsrott@okfn.de?subject=Volksentscheid-Transparenz)<br>
-
-
-
+<br>
 
 ## Pressemitteilung
 <ul class="presse">
