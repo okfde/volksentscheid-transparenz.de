@@ -18,14 +18,9 @@ Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
 arne.semsrott@okfn.de <br>
 
-
-
-**Open Knowledge Foundation Deutschland:** <br>
-**Leonard Wolf und Oliver Wiedmann**<br>
+**Leonard Wolf<br>
 **E-Mail:** [presse@volksentscheid-transparenz.de](mailto:presse@volksentscheid-transparenz.de?subject=Volksentscheid-Transparenz)<br>
 **Telefon:** +49 30 57 70 36 662<br>
-**Mobil:** +49 163 191 4207
-
 
 
 ## Pressemitteilung
