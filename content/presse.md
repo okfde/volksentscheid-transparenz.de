@@ -23,6 +23,7 @@ Telefon: +49 30 57 70 36 662<br>
 
 ## Pressemitteilung
 <ul class="presse">
+<li> 19.7.2019: [0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig](/blog/2019/07/048-pro-einwohnerin-pro-jahr-stärkung-der-transparenz-in-berlin-wäre-besonders-günstig/)</li>
 <li> 18.6.2019: [Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Start aus](/blog/2019/06/senatsverwaltung-bremst-bündnis-für-transparenzgesetz-bereits-vor-start-aus/)</li>
 <li> 25.5.2019: [Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz](/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/)</li>
 <li> 25.4.2019: [Berliner Verfassungsschutzgesetz europarechtswidrig: Neues Gesetz muss für echte Transparenz sorgen](/blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-für-echte-transparenz-sorgen/)</li>
