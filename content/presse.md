@@ -21,6 +21,7 @@ Leonard Wolf<br>
 Telefon: +49 30 57 70 36 662<br>
 
 
+
 ## Pressemitteilung
 <ul class="presse">
 <li> 19.7.2019: [0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig](/blog/2019/07/048-pro-einwohnerin-pro-jahr-stärkung-der-transparenz-in-berlin-wäre-besonders-günstig/)</li>
