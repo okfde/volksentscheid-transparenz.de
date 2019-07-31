@@ -6,8 +6,6 @@ layout: presse
 
 # Presse
 
-Wenn du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unserem Volksentscheid hast oder eine*n Interviewpartner*in benötigst, wende dich bitte an unser Presse-Team. Wir helfen dir gerne weiter!
-
 ## Kontakt
 Marie Jünemann<br>
 Telefon: 030 420 823 70<br>
