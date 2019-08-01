@@ -22,6 +22,8 @@ title: "Auf die Plätze, färtig, Transparänz - Die Unterschriftensammlung ist 
 
 ---
 
+[!!! Hier geht es zur Unterschriftenliste !!!](/documents/Unterschriftenliste.pdf)
+
 Berlin aufgepasst! Am 3.8. um 0:00 Uhr startet die Unterschriftensammlung für den Volksentscheid Transparenz - und das mit einem großen Knall! Am Wochenende machen wir schon drei Aktionen, die uns den guten Start in die Sammlung sichern sollen: Presse, Party, und Sammeln. Du bist natürlich herzlich zu allen drei eingeladen.
 
 ### Freitag, 2. August: Presseaktion
