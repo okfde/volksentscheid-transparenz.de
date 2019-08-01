@@ -20,6 +20,8 @@ title: "Auftaktaktion Volksentscheid Transparenz vor dem Roten Rathaus - 40 Orga
 
 ---
 
+[!!! Hier geht es zur Unterschriftenliste !!!](/documents/Unterschriftenliste.pdf)
+
 Das Mit einer fünf Meter langen Lupe steht das Bündnis „Volksentscheid Transparenz” heute vor dem Roten Rathaus und leitet mit einer Auftaktaktion den Start seiner Unterschriftensammlung ein. Ab Samstag (03.08.) sammelt das zivilgesellschaftliche Bündnis Unterschriften für mehr Transparenz in der Berliner Politik und Verwaltung. Zum Auftakt ruft das Bündnis zu einem gemeinsamen Sammeltag am Samstag auf. 
 
 „Wir wollen von Anfang an deutlich machen, wie dringend Berlin mehr öffentliche Kontrolle durch mehr Transparenz braucht”, sagt Arne Semsrott Sprecher des Bündnisses, am Rande der Aktion. „Milliardenteure Desaster wie der BER-Flughafen und die Staatsoper zeigen die Notwendigkeit eines Berliner Transparenzgesetzes.”
@@ -44,5 +46,5 @@ arne.semsrott@okfn.de <br>
 
 Marie Jünemann<br>
 Telefon: 030 420 823 70<br>
-Mobil: 015 205 794 139<br>
+Mobil: 0152 057 941 39<br>
 marie.juenemann@mehr-demokratie.de
