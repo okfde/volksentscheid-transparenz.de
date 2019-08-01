@@ -3,7 +3,7 @@ authors:
 - Leonard Wolf
 date: 2019-08-01
 image:
-  src: static/files/blog/2019/08/liste-stift-volksentscheid.jpg
+  src: /static/files/blog/2019/08/liste-stift-volksentscheid.jpg
   title:
   license:
   license_url:
