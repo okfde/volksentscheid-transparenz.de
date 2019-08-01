@@ -4,12 +4,10 @@ meta: Pressekontakt, Presseverteiler, Logos, Bilder
 layout: presse
 ---
 
-# Presse
-
 ## Kontakt
 Marie Jünemann<br>
 Telefon: 030 420 823 70<br>
-Mobil: 015 205 794 139<br>
+Mobil: 0152 057 941 39<br>
 [marie.juenemann@mehr-demokratie.de](mailto:marie.juenemann@mehr-demokratie.de?subject=Volksentscheid-Transparenz)<br>
 
 Arne Semsrott<br>
@@ -27,6 +25,9 @@ Telefon: 030 577 036 660<br>
 <li> 21.2.2019: [Erste Lesung: FDP-Fraktion übernimmt Forderungen der Zivilgesellschaft](/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/)</li>
 </ul>
 <br>
+
+## Pressefotos
+Fotos stehen zur freien Verwendung [hier bereit](https://www.flickr.com/photos/okfde/albums/72157710018426937). Lizenzangabe: CC-BY 4.0 Open Knowledge Foundation Deutschland e.V.
 
 ## Logos und Material
 
