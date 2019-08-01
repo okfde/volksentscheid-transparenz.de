@@ -37,7 +37,7 @@ Das derzeit geltende Informationsfreiheitsgesetz baut zu hohe Hürden für den I
 
 Eine Initiative der Open Knowledge Foundation Deutschland & Mehr Demokratie e.V.
 
-**Kontakt Sprecher\*innen**
+**Kontakt Sprecher\*innen**<br>
 Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
 arne.semsrott@okfn.de <br>
