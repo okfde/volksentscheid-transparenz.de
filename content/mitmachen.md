@@ -18,14 +18,18 @@ layout: mitmachen
         <p>
           Finde eine Unterschriftenliste in Deiner Nähe oder komm zu einem unserer Sammeltermine.
         </p>
-        <p>Demnächst findest Du hier auch die Unterschriften-Liste zum Runterladen.</p>
+        <p>
+          <a href="/documents/Unterschriftenliste.pdf" target="_blank">
+          Hier kannst du die Unterschriftenliste herunterladen!
+          </a>
+        </p>
       </div>
     </div>
     <div class="col-lg-4">
       <div class="mt-5">
-        <h3>2. Unterschriftenlisten verteilen</h3>
+        <h3>2. Auslegen</h3>
         <p>
-          Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in Cafés aus.
+          Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Café aus.
         </p>
         <p>
           <a href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/">
@@ -36,7 +40,7 @@ layout: mitmachen
     </div>
     <div class="col-lg-4">
       <div class="mt-5">
-        <h3>3. Sammelgruppe beitreten</h3>
+        <h3>3. Mitsammeln</h3>
         <p>
           Hilf uns bei Sammelterminen! Such dir die nächste Sammelgruppe auf der Karte aus und hilf vor Ort mit. 
         </p>
@@ -45,9 +49,16 @@ layout: mitmachen
   </div>
 </div>
 
-<iframe src="https://karte.volksentscheid-transparenz.de/" style="width:100%; height: 60vh; border:0"></iframe>
-
 <div class="container mt-5">
+  <div class="row mb-3 l__content">
+    <div class="col">
+      <h3>Unsere Sammelgruppen und Sammelorte</h3>
+    </div>
+  </div>
+  <iframe src="https://karte.volksentscheid-transparenz.de/" style="width:100%; height: 60vh; border:0"></iframe>
+</div>
+
+<div id="treffen" class="container mt-5">
   <div class="row mt-0 l__content">
     <div class="col-md-6">
       <div class="mt-5">
