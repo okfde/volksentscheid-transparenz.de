@@ -1,7 +1,7 @@
 ---
 authors:
 - Leonard Wolf
-date: 2019-08-02
+date: 2019-08-01
 image:
   src: static/files/blog/2019/08/liste-stift-volksentscheid.jpg
   title:
@@ -19,8 +19,6 @@ published: true
 title: "Auftaktaktion Volksentscheid Transparenz vor dem Roten Rathaus - 40 Organisationen setzen sich für ein Berliner Transparenzgesetz ein"
 
 ---
-
-[!!! Hier geht es zur Unterschriftenliste !!!](/documents/Unterschriftenliste.pdf)
 
 Das Mit einer fünf Meter langen Lupe steht das Bündnis „Volksentscheid Transparenz” heute vor dem Roten Rathaus und leitet mit einer Auftaktaktion den Start seiner Unterschriftensammlung ein. Ab Samstag (03.08.) sammelt das zivilgesellschaftliche Bündnis Unterschriften für mehr Transparenz in der Berliner Politik und Verwaltung. Zum Auftakt ruft das Bündnis zu einem gemeinsamen Sammeltag am Samstag auf. 
 
