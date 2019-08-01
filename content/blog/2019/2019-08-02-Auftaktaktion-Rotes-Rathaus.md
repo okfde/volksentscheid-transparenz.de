@@ -32,13 +32,12 @@ Ragnhild Soerensen, Pressesprecherin des Vereins „changing cities”, welcher 
 
 Bis Ende Oktober (31.10.) muss das Bündnis mindestens 20.000 gültige Unterschriften gesammelt haben. Ein möglicher Volksentscheid könnte 2021 parallel zu den Wahlen zum Abgeordnetenhaus und der Bundestagswahl stattfinden.
 
-Hintergrund
+**Hintergrund**
 Das derzeit geltende Informationsfreiheitsgesetz baut zu hohe Hürden für den Informationszugang der Bürger\*innen auf. Deswegen will das Bündnis „Volksentscheid Transparenz” nach dem Vorbild Hamburgs in Berlin ein Transparenzgesetz per Volksbegehren auf den Weg bringen. Dieses würde Politik, Verwaltung und landeseigene Unternehmen zwingen, wichtige Informationen frühzeitig zu veröffentlichen – für alle Menschen zugänglich auf einem zentralen Online-Portal. Darunter fallen Verträge, Gutachten, Senats- und Bezirksentscheidungen, die Vergabe öffentlicher Aufträge, Treffen von Senatsmitgliedern mit Interessenvertreter\*innen u.v.m.  Landes- und Bezirkspolitik sollen damit transparenter werden. Informationsanfragen sollen kostenlos sein und der Anwendungsbereich ausgeweitet werden, so dass auch Senat, Bezirksämter und landeseigene Unternehmen Informationen herausgeben müssen. 
 
 Eine Initiative der Open Knowledge Foundation Deutschland & Mehr Demokratie e.V.
 
-Kontakt Sprecher\*innen
-
+**Kontakt Sprecher\*innen**
 Arne Semsrott<br>
 Telefon: 030 577 036 660<br>
 arne.semsrott@okfn.de <br>
