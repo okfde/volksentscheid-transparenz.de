@@ -39,11 +39,11 @@ Eine Initiative der Open Knowledge Foundation Deutschland & Mehr Demokratie e.V.
 
 Kontakt Sprecher\*innen
 
-Arne Semsrott
-Telefon: 030 577 036 660
-arne.semsrott@okfn.de 
+Arne Semsrott<br>
+Telefon: 030 577 036 660<br>
+arne.semsrott@okfn.de <br>
 
-Marie Jünemann
-Telefon: 030 420 823 70
-Mobil: 015 205 794 139
+Marie Jünemann<br>
+Telefon: 030 420 823 70<br>
+Mobil: 015 205 794 139<br>
 marie.juenemann@mehr-demokratie.de
