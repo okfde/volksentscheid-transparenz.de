@@ -8,7 +8,7 @@ box_link_name: Jetzt mitmachen!
 ---
 
 ## Der Volks&shy;entscheid
-Mit einem Volksentscheid können wir das Transparenzgesetz für Berlin verbindlich durchsetzen! Startschuss ist im Sommer 2019: Innerhalb von sechs Monaten müssen 20.000 Unterschriften gesammelt werden. Übernimmt das Abgeordnetenhaus unseren Vorschlag danach nicht, bleiben wir hartnäckig und gehen Ende 2020 ins Volksbegehren. Innerhalb von vier Monaten müssen dann 175.000 Berliner*innen unterschreiben, um einen Volksentscheid einzuleiten. Der Volksentscheid wird nach diesem Plan am Tag der Bundestagswahl im Herbst 2021 stattfinden.
+Mit einem Volksentscheid können wir das Transparenzgesetz für Berlin verbindlich durchsetzen! Startschuss ist im August 2019: Innerhalb von sechs Monaten müssen wir gemeinsam 20.000 Unterschriften sammeln. Übernimmt das Abgeordnetenhaus unseren Vorschlag danach nicht, bleiben wir hartnäckig und gehen Ende 2020 ins Volksbegehren. Innerhalb von vier Monaten müssen dann 175.000 Berliner*innen unterschreiben, um einen Volksentscheid einzuleiten. Der Volksentscheid wird nach diesem Plan am Tag der Bundestagswahl im Herbst 2021 stattfinden.
 
 <br><br><br>
 ## Wieso machen wir das?
@@ -24,4 +24,4 @@ Im Sommer 2019 werden wir anfangen, Unterschriften zu sammeln. Innerhalb von sec
 ## Wer steckt dahinter?
 
 Wir sind ein großes Bündnis aus verschiedenen Organisationen. Der Trägerkreis besteht aus der Open Knowledge Foundation Deutschland e.V. und Mehr Demokratie e.V., die beide das Bündnis finanzieren. Ein großer Kreis von Unterstützerinnen trägt das Bündnis.
-Gegründet wurde die Initiative von der OKF. Seit acht  Jahren setzt sich der Verein für offenes Wissen, offene Daten, Transparenz und Beteiligung ein und unterstützt mit dem Portal [FragDenStaat.de](https://fragdenstaat.de) Bürgerinnen und Bürger dabei, ihr Recht auf Erhalt amtlicher Informationen von deutschen Behörden wahrzunehmen. Die Arbeit im Projekt zeigt, dass die gesetzlichen Grundlagen zur Informationsfreiheit nicht ausreichend sind. Sie müssen verbessert werden, um eine effektive Durchsetzung des Rechts auf Zugang zu Informationen zu ermöglichen.
+Gegründet wurde die Initiative von der Open Knowledge Foundation. Seit acht  Jahren setzt sich der Verein für offenes Wissen, offene Daten, Transparenz und Beteiligung ein und unterstützt mit dem Portal [FragDenStaat.de](https://fragdenstaat.de) Bürgerinnen und Bürger dabei, ihr Recht auf Erhalt amtlicher Informationen von deutschen Behörden wahrzunehmen. Die Arbeit im Projekt zeigt, dass die gesetzlichen Grundlagen zur Informationsfreiheit nicht ausreichend sind. Sie müssen verbessert werden, um eine effektive Durchsetzung des Rechts auf Zugang zu Informationen zu ermöglichen.
