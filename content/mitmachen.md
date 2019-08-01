@@ -16,7 +16,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
-          Finde eine Unterschriftenliste in Deiner Nähe oder komm zu einem unserer Sammeltermine.
+          Drucke eine Unterschriftenliste aus, finde eine Liste in Deiner Nähe oder komm zu einem unserer Sammeltermine.
         </p>
         <p>
           <a href="/documents/Unterschriftenliste.pdf" target="_blank">
