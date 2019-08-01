@@ -3,7 +3,7 @@ title: 6– Gebühren für Auskünfte abschaffen
 weight: 6
 
 img:
-  - /gruende/06_gebuehren.png
+  - /img/gruende/06_gebuehren.png
 
 arrange: img_left
 ---

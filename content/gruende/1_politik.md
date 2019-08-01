@@ -3,7 +3,7 @@ title: 1– Transparente Politik, transparente Verwaltung
 weight: 1
 
 img:
-  - /gruende/01_transparentepolitik.png
+  - /img/gruende/01_transparentepolitik.png
 
 arrange: img_left
 ---

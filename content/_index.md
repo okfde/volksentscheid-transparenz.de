@@ -5,5 +5,5 @@ work: Unser Transparenzgesetz verpflichtet Behörden und öffentliche Unternehme
 donate_title: Unterstütze jetzt offenes Wissen!
 donate_text: Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht kommerziell. Mit einer Spende unterstützt Du uns und unsere Community.
 meta: Volksentscheid Transparenz Berlin
-img_header: /okf/start-social-og.png
+img_header: /img/social-og.png
 ---

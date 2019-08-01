@@ -3,7 +3,7 @@ title: 5– Alle Infos online an einem Ort
 weight: 5
 
 img:
-  - /gruende/05_ort.png
+  - /img/gruende/05_ort.png
 
 arrange: img_left
 ---

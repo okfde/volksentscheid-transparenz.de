@@ -3,7 +3,7 @@ title: 2– Kontrolle und echte Mitbestimmung
 weight: 2
 
 img:
-  - /gruende/02_kontrolle.png
+  - /img/gruende/02_kontrolle.png
 
 arrange: img_left
 ---

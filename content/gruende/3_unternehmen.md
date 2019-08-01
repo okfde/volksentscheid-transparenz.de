@@ -3,7 +3,7 @@ title: 3– Transparenz für Unternehmen des Landes
 weight: 3
 
 img:
-  - /gruende/03_unternehmen.png
+  - /img/gruende/03_unternehmen.png
 
 arrange: img_left
 ---

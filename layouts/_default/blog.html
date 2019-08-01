@@ -1,7 +1,3 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
-{{ end }}
-
 {{ define "head" }}
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
@@ -18,8 +14,6 @@
 
 {{ define "main" }}
 <main>
-  
-
   <div id="js-blog-index">
     {{ if eq .Paginator.HasPrev false}}
       {{- partial "featured_post.html" . -}}
@@ -34,5 +28,4 @@
     {{- partial "paginator.html" . -}}
   </div>
 </main>
-{{- partial "matomo.html" . -}}
 {{ end }}

@@ -5,7 +5,7 @@ meta:  Volksentscheid Transparenz unterstützen
 layout: donation
 bank_name: "Überweisung"
 bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
-img_header: /okf/spenden-social-og.png
+img_header: /img/social-og.png
 paypal_name:
 paypal_text:
 paypal_link: #

@@ -4,7 +4,7 @@
       <a href="#content" class="show-on-focus skip">Skip to content</a>
       {{ with .Site.GetPage "/"}}
         <a href="{{.Site.BaseURL}}" title="Startseite" class="c__logo l__logo">
-          {{ readFile "static/okf/Logo_VTB-02.svg" | safeHTML }}
+          {{ readFile "static/logo/logo_vtb.svg" | safeHTML }}
         </a>
       {{end}}
       <div class="l__topbar__toggle">
@@ -17,19 +17,7 @@
         {{ with .Site.GetPage "/mitmachen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/ablauf" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/spenden" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        <li><a href="/blog">Blog</a></li>
-
-        {{ $langList := (.Page.AllTranslations) }}
-        {{ $currentLang := .Language}}
-        {{ $lenLangList := len $langList}}
-         <!-- <li>{{ range $index, $translation := $langList }}
-          <a href="{{ $translation.Permalink }}" class="{{ if ne $currentLang .Language}}inactive{{ end }}">{{ $translation.Language.LanguageName }}</a>
-          {{ if (eq $index 0) }}|{{ end }}
-          {{ if (eq $lenLangList 1)}}
-          <a href="{{ $translation.Permalink}}">EN</a>
-          {{ end }}
-          {{ end }}
-        </li>set to newsletter only-->
+        {{ with .Site.GetPage "/blog" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
     </div>
   </div>

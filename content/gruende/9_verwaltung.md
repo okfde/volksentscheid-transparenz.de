@@ -3,7 +3,7 @@ title: 9– Effiziente Verwaltung
 weight: 9
 
 img:
-  - /gruende/09_verwaltung.png
+  - /img/gruende/09_verwaltung.png
 
 arrange: img_left
 ---

@@ -3,7 +3,7 @@ title: 8– Förderung wirtschaftlicher Innovationen
 weight: 8
 
 img:
-  - /gruende/08_innovation.png
+  - /img/gruende/08_innovation.png
 
 arrange: img_left
 ---

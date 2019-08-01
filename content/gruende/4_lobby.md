@@ -3,7 +3,7 @@ title: 4– Lobbyismus unter die Lupe nehmen
 weight: 4
 
 img:
-  - /gruende/04_lobby.png
+  - /img/gruende/04_lobby.png
 
 arrange: img_left
 ---

@@ -3,7 +3,7 @@ title: 7– Ausnahmen werden zur Ausnahme
 weight: 7
 
 img:
-  - /gruende/07_ausnahmen.png
+  - /img/gruende/07_ausnahmen.png
 
 arrange: img_left
 ---

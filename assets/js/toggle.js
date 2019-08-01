@@ -11,11 +11,6 @@ document.addEventListener('DOMContentLoaded', function (event) {
     });
   }
 
-  // Verein Jahresbericht Tab nav
-  tabnav('.js-report', '#js-report-nav a');
-  // Finanzierung einnahmen
-  tabnav('.js-incomes', '#js-incomes-nav a');
-
   topnav();
 
   window.addEventListener("message", function(e) {

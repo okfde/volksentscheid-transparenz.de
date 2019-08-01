@@ -1,19 +1,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="manifest" href="/files/favicon/site.webmanifest">
-<link rel="mask-icon" href="/files/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="shortcut icon" href="/files/favicon/favicon.ico">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-config" content="/files/favicon/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
-
-<link rel="preload" href="/fonts/apercu-bold-pro.woff" as="font" type="font/woff" crossorigin>
-<link rel="preload" href="/fonts/apercu-medium-pro.woff" as="font" type="font/woff" crossorigin>
-<link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
-
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 
-{{ $js :=  resources.Get "js/toggle.js" | resources.Minify | resources.Fingerprint}}
-<script src="{{$js.RelPermalink}}"></script>
+<!--
+  <link rel="manifest" href="/files/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/files/favicon/safari-pinned-tab.svg" color="#5bbad5">
+-->
+<link rel="shortcut icon" href="/files/favicon/favicon.ico">
+<meta name="theme-color" content="#ffffff">

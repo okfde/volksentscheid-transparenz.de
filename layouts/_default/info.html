@@ -1,20 +1,4 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
+{{ define "title"}}{{ .Title }}{{ end }}
 
 {{ define "main" }}
 <section class="l__finance container align-items-end">
@@ -26,7 +10,7 @@
       <a href="/documents/BerlTG-E-6_clean.pdf">
         <div class="teaser__inner">
           <div class="teaser__img">
-            <img src="/volksentscheid/gesetz__teaser.png" alt="" class="img-responsive">
+            <img src="/img/gesetz__teaser.png" alt="" class="img-responsive">
           </div> 
         </div>
       </a>
@@ -64,7 +48,7 @@
     <div class="col col-12 col-sm-10 col-md-10 col-lg-8">
       <div class="row c__additional no-gutters">
         <div class="col-12 col-md-5">
-          <img src="/volksentscheid/mitmachen__teaser.png" alt="">
+          <img src="/img/mitmachen__teaser.png" alt="">
         </div>
         <div class="col-12 col-md-6">
           <div class="c__additional__info">
@@ -79,6 +63,5 @@
     </div>
   </div>
 </aside>
-{{- partial "matomo.html" . -}}
 {{ end }}
 

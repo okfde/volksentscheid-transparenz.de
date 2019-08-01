@@ -1,12 +1,13 @@
 ---
 title: Impressum
-layout: presse
+layout: page
+
 ---
 
 # Impressum 
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109<br>
-10179 Berlin</br>
+10179 Berlin<br>
 Deutschland
 
 **Vertrauenspersonen i.S.d. § 6 AbstG**: Marie Jünemann, Olof Leps, Lea Pfau, Arne Semsrott, Oliver Wiedmann

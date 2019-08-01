@@ -1,24 +1,8 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ .Site.Title }}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
+{{ define "title"}}{{ .Title }}{{ end }}
 
 {{ define "main" }}
 <main>
-  <section class="l__verein container align-items-end">
+  <section class="container align-items-end">
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
       <div class="col col-12 mt-d mb-0">
@@ -33,6 +17,5 @@
     </div>
   </section>
 </main>
-{{- partial "matomo.html" . -}}
 {{ end }}
 

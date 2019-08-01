@@ -1,18 +1,3 @@
-{{ define "title"}}
-<title>Volksentscheid Transparenzgesetz</title>
-{{ end }}
-
-{{ define "head" }}
-<meta property="og:title" content="Volksentscheid Transparenzgesetz" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
-
 {{ define "main" }}
 <main>
   <div class="l__home">
@@ -53,7 +38,7 @@
               <a href="/mitmachen">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/volksentscheid/mitmachen.png" alt="" class="img-responsive">
+                    <img src="/img/mitmachen.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
                     <h3><a href="/mitmachen">Dringend Unterstützung gebraucht!</a></h3>
@@ -73,7 +58,7 @@
               <a href="/info">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/volksentscheid/info__teaser.png" alt="" class="img-responsive">
+                    <img src="/img/info__teaser.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
                     <h3><a href="/info">Über den Volksentscheid</a></h3>
@@ -87,7 +72,7 @@
               <a href="/gruende">
                 <div class="l__home__teaser__inner">
                   <div class="l__home__teaser__img">
-                    <img src="/gruende/00_gruende__teaser-4.png" alt="" class="img-responsive">
+                    <img src="/img/akten_mauerer.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content">
                     <h3><a href="/gruende">9 Gründe für ein Transparenzgesetz</a></h3>
@@ -100,7 +85,7 @@
               <a href="http://eepurl.com/dPuBD5">
                 <div class="l__home__teaser__inner__bg--black text__white">
                   <div class="l__home__teaser__img">
-                    <img src="/volksentscheid/newsletter.png" alt="" class="img-responsive">
+                    <img src="/img/newsletter.png" alt="" class="img-responsive">
                   </div> 
                   <div class="l__home teaser__content text__white">  
                     <h3><a href="http://eepurl.com/dPuBD5">Newsletter abonnieren {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></h3>
@@ -120,7 +105,7 @@
             <a href="/documents/BerlTG-E-6_clean.pdf">
               <div class="l__home__teaser__inner">
                 <div class="l__home__teaser__img">
-                  <img src="/volksentscheid/gesetz__teaser_gray.png" alt="" class="img-responsive">
+                  <img src="/img/gesetz__teaser_gray.png" alt="" class="img-responsive">
                 </div> 
                 <div class="l__home teaser__content">
                   <h3><a href="/documents/BerlTG-E-6_clean.pdf">Was steht im Gesetz?</a></h3>
@@ -133,7 +118,7 @@
             <a href="/workshop">
               <div class="l__home__teaser__inner">
                 <div class="l__home__teaser__img">
-                  <img src="/volksentscheid/workshop_3.png" alt="" class="img-responsive">
+                  <img src="/img/workshop_3.png" alt="" class="img-responsive">
                 </div> 
               </div>
             </a>
@@ -468,5 +453,4 @@
   </div>
 </div>
 </main>
-{{- partial "matomo.html" . -}}
 {{ end }}

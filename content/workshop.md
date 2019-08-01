@@ -1,13 +1,14 @@
 ---
 title: Mitmachen
 meta: Mitmachen
-img_header: /okf/transparenz-social-og.png
-layout: presse
+img_header: /img/social-og.png
+layout: page
 
 ---
+
 # Unsere Aktivenworkshops
 
-<img src="/volksentscheid/workshop_3.png" alt="" class="img-responsive">
+<img src="/img/workshop_3.png" alt="" class="img-responsive">
 
 ### Termine: 22.05. | 03.06. | 19.06. | 29.6. auf dem Tempelhofer Feld | 11.07.
 ### Wo: Haus der Demokratie und Menschenrechte, Greifswalder Str. 4., 10405 Berlin

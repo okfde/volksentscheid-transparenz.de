@@ -1,6 +1,4 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
-{{ end }}
+{{ define "title"}}{{ .Title }} - {{ strings.FirstUpper .Section }}{{ end }}
 
 {{ define "head" }}
 {{ range .AlternativeOutputFormats -}}
