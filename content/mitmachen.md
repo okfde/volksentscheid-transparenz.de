@@ -16,7 +16,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
-          Drucke eine Unterschriftenliste aus, finde eine Liste in Deiner Nähe oder komm zu einem unserer Sammeltermine.
+          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt.
         </p>
         <p>
           <a href="/documents/Unterschriftenliste.pdf" target="_blank">
@@ -29,7 +29,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>2. Auslegen</h3>
         <p>
-          Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Café aus.
+          Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Geschäft oder Café aus!
         </p>
         <p>
           <a href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/">
