@@ -4,7 +4,6 @@ layout: page
 
 ---
 
-# Impressum 
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109<br>
 10179 Berlin<br>
