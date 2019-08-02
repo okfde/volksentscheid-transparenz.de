@@ -58,9 +58,9 @@ layout: mitmachen
   <iframe src="https://karte.volksentscheid-transparenz.de/" style="width:100%; height: 60vh; border:0"></iframe>
 </div>
 
-<div id="treffen" class="container mt-5">
+<div class="container mt-5">
   <div class="row mt-0 l__content">
-    <div class="col-md-6">
+    <div id="treffen" class="col-md-6">
       <div class="mt-5">
         <h3>In einer AG mitarbeiten</h3>
         <p>
@@ -86,9 +86,13 @@ layout: mitmachen
 
 <div class="container mt-5">
   <div class="row mt-0 l__content justify-content-center">
-    <div class="col-md-8">
+    <div class="col-md-6">
       <h3>Nächste Termine</h3>
       <iframe class="mt-3" id="iframe-termine" src="https://orga.volksentscheid-transparenz.de/termine/calendar/next/events/?iframe-termine" style="width:100%; height: 300px; border:0"></iframe>
+    </div>
+    <div class="col-md-6">
+      <h3>Unsere Sammelgruppen</h3>
+      <iframe id="sammelgruppen-embed" src="https://orga.volksentscheid-transparenz.de/sammelgruppen/embed/?sammelgruppen-embed" style="width:100%; height: 60vh; border:0"></iframe>
     </div>
   </div>
 </div>
