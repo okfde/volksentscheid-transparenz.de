@@ -13,18 +13,20 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
   topnav();
 
-  window.addEventListener("message", function(e) {
-    if (e.origin !== "https://orga.volksentscheid-transparenz.de" &&
-        e.origin !== "https://karte.volksentscheid-transparenz.de" &&
-        e.origin !== "http://localhost:8000" && e.origin !== "http://localhost:8080") {return;}
-
-    var iframeId = e.data[0];
-    var iframe = document.getElementById(iframeId);
-    var data      = e.data[2];
-    iframe.style.height = data + 'px';
-  }, false)
-
 });
+
+
+window.addEventListener("message", function(e) {
+  if (e.origin !== "https://orga.volksentscheid-transparenz.de" &&
+      e.origin !== "https://karte.volksentscheid-transparenz.de" &&
+      e.origin !== "http://localhost:8000" && e.origin !== "http://localhost:8080") {return;}
+
+  var iframeId = e.data[0];
+  var iframe = document.getElementById(iframeId);
+  var data      = e.data[2];
+  iframe.style.height = data + 'px';
+}, false)
+
 
 function topnav () {
   var didScroll;
