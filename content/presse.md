@@ -20,6 +20,7 @@ Hier finden Sie die Presse-Hintergrundinformationen <a href="/files/downloads/19
 
 ## Pressemitteilung
 <ul class="presse">
+<li> 2.8.2019: [Auftaktaktion Volksentscheid Transparenz vor dem Roten Rathaus - 40 Organisationen setzen sich für ein Berliner Transparenzgesetz ein](/blog/2019/08/auftaktaktion-volksentscheid-transparenz-vor-dem-roten-rathaus-40-organisationen-setzen-sich-für-ein-berliner-transparenzgesetz-ein/)</li>
 <li> 19.7.2019: [0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig](/blog/2019/07/048-pro-einwohnerin-pro-jahr-stärkung-der-transparenz-in-berlin-wäre-besonders-günstig/)</li>
 <li> 18.6.2019: [Senatsverwaltung bremst Bündnis für Transparenzgesetz bereits vor Start aus](/blog/2019/06/senatsverwaltung-bremst-bündnis-für-transparenzgesetz-bereits-vor-start-aus/)</li>
 <li> 25.5.2019: [Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz](/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/)</li>
