@@ -16,7 +16,7 @@ Telefon: 030 577 036 660<br>
 <br>
 
 ## Hintergrundinformationen
-Hier finden Sie die Presse-Hintergrundinformationen [static/files/downloads/19_08_02_Presse-Info_Volksentscheid_Transparenz-V2.pdf](zum Download).
+Hier finden Sie die Presse-Hintergrundinformationen <a href="/static/files/downloads/19_08_02_Presse-Info_Volksentscheid_Transparenz-V2.pdf">zum Download</a>.
 
 ## Pressemitteilung
 <ul class="presse">
