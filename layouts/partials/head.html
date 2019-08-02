@@ -4,9 +4,5 @@
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 
-<!--
-  <link rel="manifest" href="/files/favicon/site.webmanifest">
-  <link rel="mask-icon" href="/files/favicon/safari-pinned-tab.svg" color="#5bbad5">
--->
-<link rel="shortcut icon" href="/files/favicon/favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
 <meta name="theme-color" content="#ffffff">
