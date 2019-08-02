@@ -35,7 +35,9 @@ Bis Ende Oktober (31.10.) muss das Bündnis mindestens **20.000 gültige Untersc
 **Hintergrund**<br>
 Das derzeit geltende Informationsfreiheitsgesetz baut zu hohe Hürden für den Informationszugang der Bürger\*innen auf. Deswegen will das Bündnis „Volksentscheid Transparenz” nach dem Vorbild Hamburgs in Berlin ein Transparenzgesetz per Volksbegehren auf den Weg bringen. Dieses würde Politik, Verwaltung und landeseigene Unternehmen zwingen, wichtige Informationen frühzeitig zu veröffentlichen – für alle Menschen zugänglich auf einem zentralen Online-Portal. Darunter fallen Verträge, Gutachten, Senats- und Bezirksentscheidungen, die Vergabe öffentlicher Aufträge, Treffen von Senatsmitgliedern mit Interessenvertreter\*innen u.v.m.  Landes- und Bezirkspolitik sollen damit transparenter werden. Informationsanfragen sollen kostenlos sein und der Anwendungsbereich ausgeweitet werden, so dass auch Senat, Bezirksämter und landeseigene Unternehmen Informationen herausgeben müssen. 
 
-Eine Initiative der Open Knowledge Foundation Deutschland & Mehr Demokratie e.V.
+Eine Initiative der Open Knowledge Foundation Deutschland & Mehr Demokratie e.V.<br>
+
+Pressebilder finden Sie im Flickr-Album: https://www.flickr.com/photos/okfde/albums/72157710018426937 <br>
 
 **Kontakt Sprecher\*innen**<br>
 Arne Semsrott<br>
