@@ -4,5 +4,5 @@
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.PostCSS (dict "use" "autoprefixer") | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico">
 <meta name="theme-color" content="#ffffff">
