@@ -15,6 +15,9 @@ Telefon: 030 577 036 660<br>
 [arne.semsrott@okfn.de](mailto:arne.semsrott@okfn.de?subject=Volksentscheid-Transparenz)<br>
 <br>
 
+## Hintergrundinformationen
+Hier finden Sie die Presse-Hintergrundinformationen [zum Download](/files/downloads/19_08_02_Presse-Info Volksentscheid Transparenz-V2.pdf).
+
 ## Pressemitteilung
 <ul class="presse">
 <li> 19.7.2019: [0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig](/blog/2019/07/048-pro-einwohnerin-pro-jahr-stärkung-der-transparenz-in-berlin-wäre-besonders-günstig/)</li>
