@@ -4,14 +4,13 @@ layout: page
 
 ---
 
-Unterschriftenlisten bitte hierhin schicken:<br>
+Unterschriftenlisten bitte schicken an:<br>
 Volksentscheid Transparenz Berlin<br>
 c/o Mehr Demokratie e.V.<br>
 Greifswalder Str. 4<br>
 10405 Berlin<br><br>
 
-
-Verantwortlich für die Website:
+Verantwortlich für die Website:<br>
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109<br>
 10179 Berlin<br>
