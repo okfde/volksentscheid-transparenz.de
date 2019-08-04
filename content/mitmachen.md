@@ -16,7 +16,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
-          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt.
+          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Die Adresse steht auf der Liste.
         </p>
         <p>
           <a href="/documents/Unterschriftenliste.pdf" target="_blank">
