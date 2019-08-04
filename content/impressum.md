@@ -13,7 +13,7 @@ Unterschriftenlisten bitte hierhin schicken!
 
 **Vertrauenspersonen i.S.d. § 6 AbstG**: Marie Jünemann, Olof Leps, Lea Pfau, Arne Semsrott, Oliver Wiedmann
 
-**E-Mail:** team@volksentscheid-transparenz.de<br>
+**E-Mail:** info@volksentscheid-transparenz.de<br>
 **Telefon:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
