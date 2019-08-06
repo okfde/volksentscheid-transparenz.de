@@ -12,37 +12,47 @@ layout: mitmachen
     </div>
   </div>
   <div class="row mt-0 l__content">
-    <div class="col-lg-4">
+    <div class="col-lg-6">
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
           Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Die Adresse steht auf der Liste.
         </p>
         <p>
-          <a href="/documents/Unterschriftenliste.pdf" target="_blank">
-          Hier kannst du die Unterschriftenliste herunterladen!
+          <a class="btn btn-primary btn-lg btn-block" href="/documents/Unterschriftenliste.pdf" target="_blank">
+            Unterschriftenliste herunterladen
           </a>
+        </p>
+        <p>
+          <strong>Ausgefüllte Liste an:</strong><br/>
+          Volksentscheid Transparenz Berlin<br>
+          c/o Mehr Demokratie e.V.<br>
+          Greifswalder Str. 4<br>
+          10405 Berlin<br/>
+          oder an einem Sammelpunkt abgeben
         </p>
       </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-6">
       <div class="mt-5">
         <h3>2. Auslegen</h3>
         <p>
           Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Geschäft oder Café aus!
+          Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast.
         </p>
-        <p>
-          <a href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/">
-            Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast.
+        <a class="btn btn-primary btn-lg btn-block" href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/" target="_blank">
+            Neuen Sammelort eintragen
           </a>
-        </p>
       </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-12">
       <div class="mt-5">
         <h3>3. Mitsammeln</h3>
         <p>
-          Hilf uns bei Sammelterminen! Such dir die nächste Sammelgruppe auf der Karte aus und hilf vor Ort mit. 
+          Hilf beim Sammeln von Unterschriften! Das ist draußen mit anderen netten Menschen und macht Spaß.
+        </p>
+        <p>
+          Such dir die nächste Sammelgruppe auf der Karte aus und hilf vor Ort mit.
         </p>
       </div>
     </div>
@@ -50,11 +60,11 @@ layout: mitmachen
 </div>
 
 <div class="container mt-5">
-  <div class="row mb-3 l__content">
+  <!-- <div class="row mb-3 l__content">
     <div class="col">
       <h3>Unsere Sammelgruppen und Sammelorte</h3>
     </div>
-  </div>
+  </div> -->
   <iframe src="https://karte.volksentscheid-transparenz.de/" style="width:100%; height: 60vh; border:0"></iframe>
 </div>
 
