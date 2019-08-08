@@ -66,10 +66,9 @@ Und wer extra motiviert ist, darf gerne schon um 16 Uhr in das Fabriktheater kom
 7. Pankow, Kollwitzplatz
 8. Wedding, Leopoldplatz
 9. Schöneberg
-10. Friedenau
 
 
-Der 3.8. ist unser heiß ersehnter erster Aktionstag: mit 10 Teams ziehen wir durch Berlin um die ersten paar Tausend Unterschriften zu sammeln. Das heißt, in all diesen 10 Bezirken findest du Sammler\*innen, bei denen du unterschreiben kannst, und die dir gerne Listen mitgeben, damit Menschen in deinem Umfeld es auch tun können! Wenn du mitsammeln möchtest, kannst du dich einem Team einfach anschließen, indem du uns eine Email schickst.
+Der 3.8. ist unser heiß ersehnter erster Aktionstag: mit 9 Teams ziehen wir durch Berlin um die ersten paar Tausend Unterschriften zu sammeln. Das heißt, in all diesen 9 Bezirken findest du Sammler\*innen, bei denen du unterschreiben kannst, und die dir gerne Listen mitgeben, damit Menschen in deinem Umfeld es auch tun können! Wenn du mitsammeln möchtest, kannst du dich einem Team einfach anschließen, indem du uns eine Email schickst.
 
 
 Die genauen Orte und Zeiten an denen in den jeweiligen Bezirken gesammelt wird werden laufend aktualisiert und stehen in [der Facebook-Veranstaltung](https://www.facebook.com/events/933643463652115/).
