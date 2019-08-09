@@ -3,7 +3,7 @@ authors:
 - Franzi
 date: 2019-08-09
 image:
-  src: /files/blog/2019/08/2019-08-03-Lea-rbb.jpg
+  src: /files/blog/2019/08/2019-08-03-Lea-RBB.jpg
   title:
   license:
   license_url:
