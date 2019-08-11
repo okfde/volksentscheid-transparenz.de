@@ -8,7 +8,7 @@ layout: mitmachen
 <div class="container">
   <div class="row mt-0 l__content">
     <div class="col-12 col-md-10">
-      <h2>So kannst du mitmachen</h2>
+      <h1>So kannst du mitmachen</h1>
     </div>
   </div>
   <div class="row mt-0 l__content">

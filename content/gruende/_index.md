@@ -1,6 +1,6 @@
 ---
 title: 9 Gründe
-blurb: 9 Gründe für ein Transparenzgesetz
+blurb: 9 Gründe für ein Transparenzgesetz in Berlin
 layout: gruende
 meta: Gründe für ein Transparenzgesetz
 img_header: /img/social-og.png
