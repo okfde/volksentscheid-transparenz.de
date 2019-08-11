@@ -16,30 +16,39 @@
 - url: https://ccc.de
   image: "/partner/CCC.png" 
   name: "Chaos Computer Club"
-- url: https://www.openpetition.de/
-  image: "/partner/openpetition-logo.png"
-  name: "openPetition"
-- url: https://www.fiff.de/
-  image: "/partner/fiff.png"
-  name: "Forum InformatikerInnen für Frieden & gesellschaftliche Verantwortung"
 - url: https://www.reporter-ohne-grenzen.de/
   image: "/partner/RoG.png"
   name: "Reporter ohne Grenzen"
 - url: https://www.lobbycontrol.de/
   image: "/partner/lobbycontrol.png"
   name: "LobbyControl"
-- url: https://changing-cities.org/
-  image: "/partner/changingcities.png"
-  name: "Changing Cities (Volksentscheid Fahrrad)"
+- url: https://www.transparency.de/
+  image: "/partner/transparency.png"
+  name: "Transparency International"
+- url: https://www.foodwatch.org/en/homepage/
+  image: "/partner/foodwatch.png"
+  name: "Foodwatch"
+- url: https://www.bund.net/
+  image: "/partner/logo-bund.png"
+  name: "Bund für Umwelt und Naturschutz Deutschland (BUND)"
 - url: http://berlin.humanistische-union.de/
   image: "/partner/humanistischeunion.png"
   name: "Humanistische Union"
 - url: https://www.omnibus.org/
   image: "/partner/omnibus.png"
   name: "Omnibus für direkte Demokratie"
-- url: https://www.foodwatch.org/en/homepage/
-  image: "/partner/foodwatch.png"
-  name: "Foodwatch"
+- url: https://changing-cities.org/
+  image: "/partner/changingcities.png"
+  name: "Changing Cities (Volksentscheid Fahrrad)"
+- url: https://www.dwenteignen.de/
+  image: "/partner/dw.png"
+  name: "Deutsche Wohnen und Co. enteignen"
+- url: https://berliner-wassertisch.net/
+  image: "/partner/wassertisch.png"
+  name: "Berliner Wassertisch"
+- url: https://thf100.de/
+  image: "/partner/logo-thf.png"
+  name: "Volksentscheid Tempelhofer Feld"
 - url: https://berlin-werbefrei.de/
   image: "/partner/werbefrei.png"
   name: "Berlin werbefrei"
@@ -49,15 +58,15 @@
 - url: https://www.hausderdemokratie.de/
   image: "/partner/haus_menschenrechte.png"
   name: "Haus der Demokratie und Menschenrechte"
+- url: https://www.openpetition.de/
+  image: "/partner/openpetition-logo.png"
+  name: "openPetition"
+- url: https://www.fiff.de/
+  image: "/partner/fiff.png"
+  name: "Forum InformatikerInnen für Frieden & gesellschaftliche Verantwortung"
 - url: https://www.dzi.de/
   image: "/partner/institut_soziale_fragen.png"
   name: "Deutsches Zentralinstitut für soziale Fragen"
-- url: https://berliner-wassertisch.net/
-  image: "/partner/wassertisch.png"
-  name: "Berliner Wassertisch"
-- url: https://www.dwenteignen.de/
-  image: "/partner/dw.png"
-  name: "Deutsche Wohnen und Co. enteignen"
 - url: https://antikorruptionsvereinberlin.de/
   image: "/partner/antik.png"
   name: "Antikorruptionsverein Berlin"
@@ -73,12 +82,6 @@
 - url: https://bewegung.jetzt/
   image: "/partner/dib.png"
   name: "Demokratie in Bewegung"
-- url: https://thf100.de/
-  image: "/partner/logo-thf.png"
-  name: "Volksentscheid Tempelhofer Feld"
-- url: https://www.bund.net/
-  image: "/partner/logo-bund.png"
-  name: "Bund für Umwelt und Naturschutz Deutschland (BUND)"
 - url: http://dgif.de/
   image: "/partner/logo-dgif.png"
   name: "Deutsche Gesellschaft für Informationsfreiheit"
@@ -109,9 +112,6 @@
 - url: https://www.gemeingut.org/
   image: "/partner/gemeingut.png"
   name: "Gemeingut in BürgerInnenhand"
-- url: https://www.transparency.de/
-  image: "/partner/transparency.png"
-  name: "Transparency International"
 - url: https://oh-yeah.berlin/
   image: "/partner/ohyeah.png"
   name: "Oh Yeah"
