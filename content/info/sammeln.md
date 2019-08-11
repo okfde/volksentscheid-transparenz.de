@@ -19,7 +19,7 @@ Wir stellen Dir Material wie Unterschriftenlisten, Klemmbrett und Kugelschreiber
 
 Es gibt auch eine begrenzte Zahl an Fahrradtischen für die Sammelteams.
 
-Falls Du weiter Exemplare der [Unterschriftenliste ausdrucken willst](/documents/Unterschriftenliste.pdf), kannst du das gerne machen.
+Falls Du weitere Exemplare der [Unterschriftenliste ausdrucken willst](/documents/Unterschriftenliste.pdf), kannst du das gerne machen.
 
 ### Das Gesetz
 
