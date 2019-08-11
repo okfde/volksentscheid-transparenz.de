@@ -1,14 +1,15 @@
 {{ define "title"}}{{ .Title }}{{ end }}
 
 {{ define "main" }}
+<!-- only used for /gesetz/ ? -->
 <section class="container">
   <div class="row">
-    <div class="col col-8 col-sm-10">
-      <h1>{{ .Params.Title }}</h1>
+    <div class="col-12">
+      <h1 style="font-size: 4rem;">{{ .Params.Title }}</h1>
     </div>
   </div>
   <div class="row mt-0 l__content">
-    <div class="col col-12 col-md-7">
+    <div class="col col-12">
       {{ .Content }}
     </div>
   </div>

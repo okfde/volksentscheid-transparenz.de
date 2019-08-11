@@ -1,11 +1,13 @@
 {{ define "title"}}{{ .Title }}{{ end }}
 
 {{ define "main" }}
+
+<!-- I don't understand the purpose of this class. It's only used for /presse/ ? -->
 <main>
   <div class="container l__content">
     <div class="row">
-      <h1 class="col col-9">{{ .Title }}</h1>
-      <div class="col col-9">
+      <h1 class="col-12" style="font-size: 4rem;">{{ .Title }}</h1>
+      <div class="col-12">
         {{ .Content }}
       </div>
     </div>
