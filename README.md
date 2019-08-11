@@ -19,7 +19,7 @@ Statische Seite mit Hugo!
 2. Installier' [node und npm](https://www.npmjs.com/get-npm).
 3. Zusätzliche npm-Packete installieren mit: `npm install`
 4. Development Server laufen lassen: `hugo serve`
-5. Dann auf <localhost:1313> die Seite anschauen.
+5. Dann auf <http://localhost:1313> die Seite anschauen.
 
 ### Seite deployen
 
@@ -75,7 +75,7 @@ This website is for _Volksenscheid Transparenz_ which roughly translates into _R
 2. install [npm](https://www.npmjs.com/get-npm)
 3. `npm install`
 4. `hugo server`
-5. access the local server at <localhost:1313>
+5. access the local server at <http://localhost:1313>
 
 ### Deployment
 
