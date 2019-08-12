@@ -41,11 +41,14 @@ layout: mitmachen
           Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast.
         </p>
         <a class="btn btn-primary btn-lg btn-block" href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/" target="_blank">
-            Neuen Sammelort eintragen
-          </a>
+          Neuen Sammelort eintragen
+        </a>
+        <p>
+          Du kannst auch <a href="/bestellen/">hier Material bestellen.</a>
+        </p>
       </div>
     </div>
-    <div class="col-lg-12">
+    <div class="col-lg-6">
       <div class="mt-5">
         <h3>3. Mitsammeln</h3>
         <p>
