@@ -114,4 +114,7 @@
   name: "Gemeingut in BürgerInnenhand"
 - url: https://oh-yeah.berlin/
   image: "/partner/ohyeah.png"
-  name: "Oh Yeah"
+  name: "Oh Yeah" 
+- url: https://dielinke.berlin/nc/start/
+  image: "/partner/DieLinkeBerlin_sw.jpg"
+  name: "Die Linke Berlin"
