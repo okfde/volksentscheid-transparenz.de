@@ -3,7 +3,7 @@
     <div class="l__inner">
       <a href="#content" class="show-on-focus skip">Skip to content</a>
       {{ with .Site.GetPage "/"}}
-        <a href="{{.Site.BaseURL}}" title="Startseite" class="c__logo l__logo">
+        <a href="{{.Site.BaseURL}}" title="Startseite" class="c__logo l__logo col-auto">
           {{ readFile "static/logo/logo_vtb.svg" | safeHTML }}
         </a>
       {{end}}
@@ -11,7 +11,7 @@
         <button type="button" id="js-topnav-toggle" tabindex="">
           {{ readFile "static/files/icons/menu.svg" | safeHTML }}</button>
       </div>
-      <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
+      <ul class="l__nav c__nav-list c__nav-list--top col col-md-6 ml-auto" id="js-topnav-menu">
         {{ with .Site.GetPage "/info" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/gruende" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/mitmachen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
