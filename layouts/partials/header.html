@@ -18,6 +18,7 @@
         {{ with .Site.GetPage "/ablauf" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/spenden" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/blog" }}<li><a href="{{ .Permalink }}">Aktuelles</a></li>{{ end }}
+        {{ with .Site.GetPage "/kontakt" }}<li><a href="{{ .Permalink }}">Kontakt</a></li>{{ end }}
       </ul>
     </div>
   </div>
