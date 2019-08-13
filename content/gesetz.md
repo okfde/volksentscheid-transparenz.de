@@ -11,5 +11,5 @@ layout: page
 ## Kostenschätzungen
 
 - [Unsere Kostenschätzung als PDF](/documents/BerlTG-Kostenschaetzung.pdf)
-- [Blog-Post zu unserer Einschätzung](blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/)
+- [Blog-Post zu unserer Einschätzung](/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/)
 - [Amtliche Kostenschätzung als PDF](/documents/BerlTG-Amtliche-Kostenschaetzung-Erlaeuterungsvermerk.pdf)
