@@ -9,8 +9,6 @@ img_header: /img/social-og.png
 paypal_name:
 paypal_text:
 paypal_link: #
-betterplace_name: Betterplace
-betterplace_text:
 box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
 
 ---

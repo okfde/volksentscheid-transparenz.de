@@ -38,10 +38,7 @@
       {{ with .Params.paypal_link}}<p><a href="#">{{.}}</a></p>{{ end }}
     </div>
     <div class="col col-12 col-md-6 offset-md-3">
-      {{ with .Params.betterplace_name}}<h3>{{.}}</h3>{{ end }}
-      {{ with .Params.betterplace_text}}<p>{{.}}</p>{{ end }}
-
-      {{- partial "betterplace" -}}
+      {{- partial "spenden" -}}
     </div>
   </div>
 </section>
