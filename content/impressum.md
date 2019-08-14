@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-### Unterschriftenlisten bitte schicken an:
+### Unterschriftenlisten bitte bis 31.10. schicken an:
 
 Volksentscheid Transparenz Berlin<br>
 c/o Mehr Demokratie e.V.<br>
