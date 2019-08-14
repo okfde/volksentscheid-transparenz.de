@@ -12,6 +12,11 @@ c/o Mehr Demokratie e.V.<br>
 Greifswalder Str. 4<br>
 10405 Berlin<br><br>
 
+**E-Mail:** [info@volksentscheid-transparenz.de](mailto:info@volksentscheid-transparenz.de)<br>
+**Telefon:** +49 30 57 70 36 660<br>
+**Handy:** +49 152 - 05 79 41 39 (auch WhatsApp und Telegram)<br>
+**Fax:** +49 30 57 70 36 669
+
 ### Verantwortlich für die Website
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109<br>
@@ -19,10 +24,6 @@ Singerstr. 109<br>
 Deutschland
 
 **Vertrauenspersonen i.S.d. § 6 AbstG**: Marie Jünemann, Olof Leps, Lea Pfau, Arne Semsrott, Oliver Wiedmann
-
-**E-Mail:** [info@volksentscheid-transparenz.de](mailto:info@volksentscheid-transparenz.de)<br>
-**Telefon:** +49 30 57 70 36 660<br>
-**Fax:** +49 30 57 70 36 669
 
 [OpenStreetMap](https://www.openstreetmap.org/way/29386807) – [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
