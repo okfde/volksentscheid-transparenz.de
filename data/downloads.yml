@@ -1,15 +1,3 @@
-- title: Logo
-  text: Unser Logo als .svg, .png und .jpg
-  path: /files/downloads/Logo_Paket.zip
-
-- title: Illustrationen
-  text: Unsere Illustrationen entwickelt von Laura Kunstmann und Nadine Stammen zur Weiterverwendung (CC BY-SA 3.0 DE)
-  path: /files/downloads/Illustrationen.zip
-
-- title: Handout 9 Gründe
-  text: Unsere 9 Gründe für ein Transparenzgesetz – gesammelt auf einem Handout in DIN A4. 
-  path: /files/downloads/Handout_Gruende.zip
-
 - title: Unterschriftenliste
   text: Die Liste für Unterschriften - zum Drucken und Sammeln!
   path: /documents/Unterschriftenliste.pdf
@@ -29,6 +17,22 @@
 - title: FAQ für Sammler*innen
   text: "Antworten auf die häufigsten Fragen zum Transparenzgesetz, die bei der Unterschriftensammlung auftauchen"
   path: /documents/FAQ-Sammeln.pdf
+  
+- title: Logo
+  text: Unser Logo als .svg, .png und .jpg
+  path: /files/downloads/Logo_Paket.zip
+
+- title: Illustrationen
+  text: Unsere Illustrationen entwickelt von Laura Kunstmann und Nadine Stammen zur Weiterverwendung (CC BY-SA 3.0 DE)
+  path: /files/downloads/Illustrationen.zip
+  
+- title: Poster
+  text: Unser Poster in 5 Farben für die Unterschriftensammlung als .pdf
+  path: /files/downloads/VT-Poster.pdf
+
+- title: Handout 9 Gründe
+  text: Unsere 9 Gründe für ein Transparenzgesetz – gesammelt auf einem Handout in DIN A4. 
+  path: /files/downloads/Handout_Gruende.zip
 
 - title: "Präsentation Transparenzgesetz (.pptx)"
   text: "Eine Power-Point-Präsentation mit den wichtigsten Inhalten des Transparenzgesetzes"
