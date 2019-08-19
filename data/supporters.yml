@@ -118,3 +118,6 @@
 - url: https://dielinke.berlin/nc/start/
   image: "/partner/DieLinkeBerlin_sw.jpg"
   name: "Die Linke Berlin"
+- url: https://aufstehen.de/berlin/
+  image: "/partner/aufstTKlogo1-sw.png"
+  name: "Aufstehen Treptow-Köpenick"
