@@ -1,6 +1,6 @@
 ---
 authors:
-- Leonard
+- Leonard Wolf
 date: 2019-08-09
 image:
   src: /files/blog/2019/08/mietenprotest.jpg
