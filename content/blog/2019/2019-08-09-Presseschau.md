@@ -16,7 +16,7 @@ tags:
 type: post
 layout: post
 card: false
-featured: yellow
+featured: 
 published: true
 title: "Presseschau zum Kampagnenstart des Volksentscheid Transparenz"
 
