@@ -38,7 +38,7 @@ layout: mitmachen
         <h3>2. Auslegen</h3>
         <p>
           Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Geschäft oder Café aus!
-          Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast.
+          Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast und schreib uns, ob du die Listen selbst betreuen kannst oder dabei Unterstützung brauchst.
         </p>
         <a class="btn btn-primary btn-lg btn-block" href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/" target="_blank">
           Neuen Sammelort eintragen
