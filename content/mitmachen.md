@@ -16,7 +16,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
-          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Die Adresse steht auf der Liste.
+          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Auf der Karte unten findest du Auslage- und Sammelorte. Die Adresse für die Zusendung steht auf der Liste.
         </p>
         <p>
           <a class="btn btn-primary btn-lg btn-block" href="/documents/Unterschriftenliste.pdf" target="_blank">
