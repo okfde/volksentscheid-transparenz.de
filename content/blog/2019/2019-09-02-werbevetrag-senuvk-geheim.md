@@ -13,7 +13,7 @@ layout: post
 card: true
 featured: yellow
 published: true
-title: "Geheim, weil geheim: Werbevertrag der Stadt Berlin bleibt geschwärzt"
+title: "Geheim, weil geheim - Werbevertrag der Stadt Berlin bleibt geschwärzt"
 
 ---
 
