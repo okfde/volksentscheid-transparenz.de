@@ -3,7 +3,7 @@ authors:
 - Arne Semsrott
 date: 2019-09-02
 image:
-  src: /files/blog/2019/09/webefrei.jpg
+  src: /files/blog/2019/09/werbefrei.jpg
   title:
 tags:
 - Informationsfreiheit
