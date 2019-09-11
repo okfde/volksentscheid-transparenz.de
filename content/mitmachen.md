@@ -16,7 +16,7 @@ layout: mitmachen
       <div class="mt-5">
         <h3>1. Unterschreiben! </h3>
         <p>
-          Drucke eine Unterschriftenliste aus oder finde eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Auf der Karte unten findest du Auslage- und Sammelorte. Die Adresse für die Zusendung steht auf der Liste.
+          Drucke eine Unterschriftenliste aus oder finde über unsere Karte unten eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Die Adresse für die Zusendung steht auf der Liste. Schick uns bitte deine Unterschrift bis zum 31. Oktober zu!
         </p>
         <p>
           <a class="btn btn-primary btn-lg btn-block" href="/documents/Unterschriftenliste.pdf" target="_blank">
@@ -24,7 +24,7 @@ layout: mitmachen
           </a>
         </p>
         <p>
-          <strong>Ausgefüllte Liste an:</strong><br/>
+          <strong>Ausgefüllte Liste bis zum 31.10. an:</strong><br/>
           Volksentscheid Transparenz Berlin<br>
           c/o Mehr Demokratie e.V.<br>
           Greifswalder Str. 4<br>
