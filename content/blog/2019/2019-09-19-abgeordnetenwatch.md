@@ -1,6 +1,6 @@
 ---
 authors:
-- Léa Briand
+- "Léa Briand"
 date: 2019-09-19
 image:
   src: /files/blog/2019/09/abgeordnetenwatch.jpg
