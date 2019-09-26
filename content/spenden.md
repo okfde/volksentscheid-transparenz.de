@@ -1,6 +1,6 @@
 ---
 title: Spenden
-blurb: Spende jetzt für mehr Transparenz in der Berliner Politik!
+blurb: Spende jetzt für mehr Transparenz in Politik und Verwaltung!
 meta:  Volksentscheid Transparenz unterstützen
 layout: donation
 bank_name: "Überweisung"
