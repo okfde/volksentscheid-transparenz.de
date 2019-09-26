@@ -1,6 +1,6 @@
 ---
 title: Spenden
-blurb: Spende jetzt!
+blurb: Spende jetzt für mehr Transparenz in der Berliner Politik!
 meta:  Volksentscheid Transparenz unterstützen
 layout: donation
 bank_name: "Überweisung"
@@ -14,4 +14,4 @@ box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, habe
 ---
 
 <br>
-Wir kämpfen für Transparenz! Mit deiner Spende unterstützt du unser Engagement. Wir benötigen Geld für Druckkosten, Aktionsstände und Flyer. Trag dazu bei, dass die Berliner Akten geöffnet werden!
+Wir kämpfen für mehr Transparenz in Politik und Verwaltung! Mit deiner Spende unterstützt du unser Volksbegehren für ein Berliner Transparenzgesetz. Wir benötigen Geld für Druckkosten, Aktionsstände und Flyer. Trag dazu bei, dass die Berliner Akten geöffnet werden!
