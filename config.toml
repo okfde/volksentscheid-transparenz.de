@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://volksentscheid-transparenz.de/"
 languageCode = "de-DE"
-title = "Volksentscheid Transparenzgesetz"
+title = "Volksentscheid Transparenz"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
 
