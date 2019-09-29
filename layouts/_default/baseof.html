@@ -8,14 +8,12 @@
       {{ range .AlternativeOutputFormats -}}
         <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
       {{ end -}}
-      <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+      <meta property="og:title" content="{{ .Title }} – {{ .Site.Title }}" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="{{ .Permalink }}" />
-      {{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-      {{with .Params.meta}}
-        <meta property="og:description" content="{{.}}">
-        <meta name="description" content="{{.}}">
-      {{end}}
+      {{ with .Params.img_header }}<meta property="og:image" content="https://volksentscheid-transparenz.de{{ . }}" />{{ end }}
+      <meta property="og:description" content="Initiative für ein Berliner Transparenzgesetz. Geheimverträge stoppen!">
+      <meta name="description" content="Initiative für ein Berliner Transparenzgesetz. Geheimverträge stoppen!">
     {{- end }}
 
   </head>
