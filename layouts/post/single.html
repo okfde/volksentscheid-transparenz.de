@@ -7,7 +7,7 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ .Permalink }}" />
-{{ if (isset .Params "featured") }}
+{{ if (isset .Params "image") }}
   <meta property="og:image" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}' />
 {{end}}
 <meta property="article:published_time" content="{{ .Date }}" />
@@ -16,10 +16,8 @@
     <meta property="article:tag" content="{{ . }}" />
   {{ end }}
 {{ end }}
-{{with .Params.meta}}
-  <meta property="og:description" content="{{.}}">
-  <meta name="description" content="{{.}}">
-{{end}}
+<meta property="og:description" content="{{substr (plainify .Content) 0 150}}...">
+<meta name="description" content="{{substr (plainify .Content) 0 150}}...">
 {{ end }}
 
 {{ define "main" }}
