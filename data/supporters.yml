@@ -119,6 +119,9 @@
 - url: https://thf100.de/
   image: "/partner/logo-thf.png"
   name: "Volksentscheid Tempelhofer Feld"
+- url: https://www.voltdeutschland.org/
+  image: "/partner/volt.png"
+  name: "Volt Deutschland"
 - url: https://www.whistleblower-net.de/
   image: "/partner/logo-wbn.png"
   name: "Whistleblower Netzwerk"
