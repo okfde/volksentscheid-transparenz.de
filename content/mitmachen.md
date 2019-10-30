@@ -24,7 +24,7 @@ layout: mitmachen
           </a>
         </p>
         <p>
-          <strong>Ausgefüllte Liste bis zum 31.11. an:</strong><br/>
+          <strong>Ausgefüllte Liste bis zum 30.11. an:</strong><br/>
           Volksentscheid Transparenz Berlin<br>
           c/o Mehr Demokratie e.V.<br>
           Greifswalder Str. 4<br>
