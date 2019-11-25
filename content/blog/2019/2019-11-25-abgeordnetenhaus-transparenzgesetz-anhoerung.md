@@ -12,7 +12,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: blue
+featured: green
 title: "Transparenzgesetz im Abgeordnetenhaus: Stellungnahme des Bündnisses"
 ---
 
