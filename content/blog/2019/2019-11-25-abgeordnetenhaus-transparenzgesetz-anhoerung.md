@@ -24,4 +24,6 @@ Der Fraktionsentwurf orientiert sich stark am [Gesetzentwurf des Bündnisses Vol
 
 [Am 3. Dezember um 11 Uhr](https://volksentscheid-transparenz.de/blog/2019/10/%C3%BCbergabe-der-unterschriften-anfang-dezember/) wird das Bündnis mehr als 30.000 Unterschriften für ein Transparenzgesetz an den Senat übergeben. 
 
-→ [zur Stellungnahme des Bündnisses im Abgeordnetenhaus](https://volksentscheid-transparenz.de/files/downloads/2019-11-25 Stellungnahme zum FDP-Entwurf.pdf)
+→ [zur Stellungnahme des Bündnisses im Abgeordnetenhaus](https://volksentscheid-transparenz.de/files/downloads/2019-11-25-Stellungnahme-zum-FDP-Entwurf.pdf)
+
+
