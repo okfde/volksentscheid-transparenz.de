@@ -14,45 +14,30 @@ layout: mitmachen
   <div class="row mt-0 l__content">
     <div class="col-lg-6">
       <div class="mt-5">
-        <h3>1. Unterschreiben! </h3>
+        <h3>(1. Unterschreiben!)</h3>
         <p>
-          Drucke eine Unterschriftenliste aus oder finde über unsere Karte unten eine Liste in Deiner Nähe! Wir brauchen die Listen im Original, handschriftlich ausgefüllt. Die Adresse für die Zusendung steht auf der Liste. Schick uns bitte deine Unterschrift bis zum 31. Oktober zu!
+          Am 3. Dezember haben wir mehr 32.827 Unterschriften an den Senat übergeben. Herzlichen Dank für eure Unterschriften!
         </p>
         <p>
           <a class="btn btn-primary btn-lg btn-block" href="/documents/Unterschriftenliste.pdf" target="_blank">
-            Unterschriftenliste herunterladen
+            Zur alten Unterschriftenliste
           </a>
         </p>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="mt-5">
+        <h3>(2. Auslegen)</h3>
         <p>
-          <strong>Ausgefüllte Liste bis zum 30.11. an:</strong><br/>
-          Volksentscheid Transparenz Berlin<br>
-          c/o Mehr Demokratie e.V.<br>
-          Greifswalder Str. 4<br>
-          10405 Berlin<br/>
-          oder an einem Sammelpunkt abgeben
+          An über 100 Orten in Berlin haben wir Unterschriftenlisten ausgelegt. Dankeschön!
         </p>
       </div>
     </div>
     <div class="col-lg-6">
       <div class="mt-5">
-        <h3>2. Auslegen</h3>
+        <h3>(3. Mitsammeln)</h3>
         <p>
-          Druck die Unterschriftenliste aus und leg sie auf der Arbeit oder in einem Geschäft oder Café aus!
-          Lass uns hier wissen, wo du deine Unterschriftenliste ausgelegt hast und schreib uns, ob du die Listen selbst betreuen kannst oder dabei Unterstützung brauchst.
-        </p>
-        <a class="btn btn-primary btn-lg btn-block" href="https://orga.volksentscheid-transparenz.de/sammelort/erstellen/" target="_blank">
-          Neuen Sammelort eintragen
-        </a>
-        <p>
-          Du kannst auch <a href="/bestellen/">hier Material bestellen.</a>
-        </p>
-      </div>
-    </div>
-    <div class="col-lg-6">
-      <div class="mt-5">
-        <h3>3. Mitsammeln</h3>
-        <p>
-          Hilf beim Sammeln von Unterschriften! Das ist draußen mit anderen netten Menschen und macht Spaß.
+          Wir warten derzeit auf Rückmeldung des Senats zu unserem Gesetzentwurf. Sollte er den Entwurf nicht übernehmen, sammeln wir bald weiter Unterschriften!
         </p>
         <p>
           Such dir die nächste Sammelgruppe auf der Karte aus und hilf vor Ort mit.
@@ -90,7 +75,7 @@ layout: mitmachen
           Bei unseren öffentlichen Unterstützer*innen-Treffen kannst du einfach vorbei kommen und uns kennen lernen. Hier halten wir alle Interessierten über die neusten Entwicklungen auf dem Laufenden und diskutieren über die nächsten Schritte! 
         </p>
         <p>
-          Wir treffen uns jeden Montag um 18 Uhr in der Begegnungsstätte Lebensfreude, <a href="https://www.google.com/maps/place/Kadiner+Str.+1,+10243+Berlin/@52.5153929,13.4486122,17z/">Kadiner Straße 1, 10243 Berlin</a>.
+          Wir haben uns jeden Montag um 18 Uhr in der Begegnungsstätte Lebensfreude getroffen, <a href="https://www.google.com/maps/place/Kadiner+Str.+1,+10243+Berlin/@52.5153929,13.4486122,17z/">Kadiner Straße 1, 10243 Berlin</a>. Derzeit pausieren wir!
         </p>
       </div>
     </div>
