@@ -92,3 +92,11 @@ function tabnav (bodyIdent, navIdent) {
     });
   }
 }
+
+var waiting = document.getElementById('waiting')
+if (waiting !== null) {
+  var start = new Date('2019-12-23 12:00:00')
+  var now = new Date()
+  var days = Math.floor((now - start) / (1000 * 60 * 60 * 24))
+  waiting.innerText = 'Wir warten seit ' + days + ' Tagen auf die Prüfung unseres Gesetzentwurf durch den Senat.'
+}
