@@ -13,7 +13,7 @@ type: post
 layout: post
 published: true
 featured: green
-title: "Antrag auf Volkebegehren erfolgreich: Unterschriften wurden gezählt"
+title: "Antrag auf Volksbegehren erfolgreich: Unterschriften wurden gezählt"
 ---
 Unser Antrag auf ein Volksbegehren ist erfolgreich! Die Senatsverwaltung hat die Unterschriften gezählt, die wir im Dezember übergeben hatten. Von 32.827 eingereichten Unterschriften sind 27.091 gültig. Die Schwelle von 20.000 Unterschriften haben wir damit deutlich überschritten.
 
