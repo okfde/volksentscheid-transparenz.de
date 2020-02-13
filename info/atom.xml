@@ -1,0 +1,25 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Info on Volksentscheid Transparenz</title>
+  <link rel="self" href="https://volksentscheid-transparenz.de/info/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>https://volksentscheid-transparenz.de/info/</id>
+  
+  <entry>
+    <title>Unterschriften sammeln</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/info/sammeln/"/>
+    <id>https://volksentscheid-transparenz.de/info/sammeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Vielen Dank, dass du mit uns Unterschriften sammeln willst.
+Hier haben wir Informationen für Sammler*innen aufbereitet:
+ Leitfaden zum Sammeln Fragen &amp;amp; Antworten  Material Wir stellen Dir Material wie Unterschriftenlisten, Klemmbrett und Kugelschreiber zur Verfügung. Deine Sammelgruppe hat auch Sammelwesten, damit man Dich schnell als Sammler*in für den Volksentscheid Transparenz erkennen kann.
+Es gibt auch eine begrenzte Zahl an Fahrradtischen für die Sammelteams.
+Falls Du weitere Exemplare der Unterschriftenliste ausdrucken willst, kannst du das gerne machen.</summary>
+  </entry>
+  
+</feed>
