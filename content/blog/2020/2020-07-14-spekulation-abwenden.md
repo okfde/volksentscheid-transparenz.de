@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: yellow
+featured: green
 title: "Spekulation abwenden - Abwendungsvereinbarungen veröffentlichen"
 ---
 Der Mietenwahnsinn ist in jeder deutschen Stadt zu sehen: In Berlin betreffen steigende Mieten und die Angst vor Verdrängung nahezu alle Mieterinnen. Auch der Mietendeckel schafft nur begrenzt Abhilfe, solange <a href="https://www.sueddeutsche.de/wirtschaft/wohnen-berlin-cdu-und-fdp-reichen-verfassungsklage-gegen-mietendeckel-ein-dpa.urn-newsml-dpa-com-20090101-200524-99-170643">die verfassungsrechtliche Beurteilung dazu noch aussteht</a>. Mit der Einrichtung von sozialen Erhaltungs- und Milieuschutzgebieten sowie dem Vorkaufsrecht gibt es zwar eigentlich Maßnahmen, Mieterinnen vor Verdrängung zu schützen, indem Bezirke bzw. die landeseigenen Wohnungsbaugesellschaften oder Genossenschaften bedrohte Häuser aufkaufen.
