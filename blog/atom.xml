@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2020-01-15T00:00:00+0000</updated>
+  <updated>2020-07-14T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Spekulation abwenden - Abwendungsvereinbarungen veröffentlichen</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2020/07/spekulation-abwenden-abwendungsvereinbarungen-ver%C3%B6ffentlichen/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2020/07/spekulation-abwenden-abwendungsvereinbarungen-ver%C3%B6ffentlichen/</id>
+    <published>2020-07-14T00:00:00+0000</published>
+    <updated>2020-07-14T00:00:00+0000</updated>
+    <summary>Der Mietenwahnsinn ist in jeder deutschen Stadt zu sehen: In Berlin betreffen steigende Mieten und die Angst vor Verdrängung nahezu alle Mieterinnen. Auch der Mietendeckel schafft nur begrenzt Abhilfe, solange die verfassungsrechtliche Beurteilung dazu noch aussteht. Mit der Einrichtung von sozialen Erhaltungs- und Milieuschutzgebieten sowie dem Vorkaufsrecht gibt es zwar eigentlich Maßnahmen, Mieterinnen vor Verdrängung zu schützen, indem Bezirke bzw. die landeseigenen Wohnungsbaugesellschaften oder Genossenschaften bedrohte Häuser aufkaufen.
+Die tatsächliche Ausübung des Vorkaufsrecht ist jedoch laut Senat nicht das „vorrangige Ziel“, sondern stattdessen der Abschluss einer Abwendungsvereinbarung.</summary>
+  </entry>
   
   <entry>
     <title>Antrag auf Volksbegehren erfolgreich: Unterschriften wurden gezählt</title>
@@ -153,16 +163,6 @@ Die Senatsverwaltung für Inneres teilte dem Bündnis mit, dass mit der amtliche
     <updated>2019-06-14T00:00:00+0000</updated>
     <summary>Gemeinsam warten wir auf das Transparenzgesetz für Berlin! Doch bis das in Kraft tritt, wird noch einige Zeit vergehen. Da wir aber auch jetzt schon eine transparentere Verwaltung brauchen, können wir bereits das derzeitige Informationsfreiheitsgesetz für Berlin und FragDenStaat.de nutzen.
 Es ist gar nicht immer so einfach Anfragen richtig und zielführend zu formulieren oder überhaupt die richtige Behörde zu finden. Doch dabei wollen wir euch bei unserem IFG-Marathon für Berlin helfen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/</id>
-    <published>2019-05-22T00:00:00+0000</published>
-    <updated>2019-05-22T00:00:00+0000</updated>
-    <summary>Die Senatsverwaltung für Inneres hat heute (22.05.) nach monatelangem Rechtsstreit ein Gesuch auf Akteneinsicht des Generalsekretärs der Berliner CDU Stefan Evers erneut verweigert. Das würde sich mit dem Gesetzentwurf der Initiative Volksentscheid Transparenz ändern: Dieser stärkt die Informationsrechte der Bürger*innen und sieht unter anderem vor, dass Entscheidungsgrundlagen des Senats automatisch der Öffentlichkeit zugänglich gemacht werden müssen.
-“Natürlich muss sich der Senat auch in einem geschützten Bereich beraten können. Sobald er aber Gutachten in Auftrag gibt müssen diese öffentlich zugänglich sein”, sagt Leonard Wolf, Sprecher des Volksentscheids Transparenz.</summary>
   </entry>
   
 </feed>
