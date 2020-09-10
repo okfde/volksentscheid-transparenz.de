@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2020-07-14T00:00:00+0000</updated>
+  <updated>2020-08-20T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Eckpunkte Senat: Weniger Transparenz für Schulen und Unikliniken</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2020/08/eckpunkte-senat-weniger-transparenz-f%C3%BCr-schulen-und-unikliniken/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2020/08/eckpunkte-senat-weniger-transparenz-f%C3%BCr-schulen-und-unikliniken/</id>
+    <published>2020-08-20T00:00:00+0000</published>
+    <updated>2020-08-20T00:00:00+0000</updated>
+    <summary>Am Dienstag (18.8.) einigte sich der Berliner Senat auf Eckpunkte für ein Berliner Transparenzgesetz. Die Initiative Volksentscheid Transparenz begrüßt diesen Schritt. Gleichzeitig sieht das Bündnis die Eckpunkte an vielen Stellen als einen Rückschritt an. Neue weitreichende Ausnahmen würden für die Politik und Verwaltung eingeführt. Die vom Senat versprochene Orientierung am Hamburger Transparenzgesetz sei verfehlt worden.
+“Nach langem Warten der Berliner/innen auf mehr Transparenz sind diese Eckpunkte überfällig”, sagt Marie Jünemann, Sprecherin der Initiative Volksentscheid Transparenz und Landesvorständin beim Verein Mehr Demokratie e.</summary>
+  </entry>
   
   <entry>
     <title>Spekulation abwenden - Abwendungsvereinbarungen veröffentlichen</title>
@@ -153,16 +163,6 @@ Wirtschaft und Politik sind eng miteinander verflochten. Das richtige Verhältni
     <updated>2019-06-18T00:00:00+0000</updated>
     <summary>Aufgrund von Verzögerungen in der Senatsinnenverwaltung muss das Volksbegehren zur Einführung eines Transparenzgesetzes seinen ursprünglich für Mitte Juni geplanten Start der Unterschriftensammlung um sechs Wochen verschieben.
 Die Senatsverwaltung für Inneres teilte dem Bündnis mit, dass mit der amtlichen Kostenschätzung nicht vor Ende Juli zu rechnen sei. Dies führt dazu, dass die Initiative ihren Zeitplan aufgrund des Verzugs durch den Senat neu anpassen und umgestalten muss. Die mehr als drei Monate, die die Initiative für die Kostenschätzung eingeplant hatte, basierten auf der Grundlage von Erfahrungen bei anderen Volksbegehren und boten der Senatsverwaltung einen ausreichend großen Zeitraum zum Schätzen der Kosten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Einladung - Berliner IFG-Marathon am 20.Juni</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/</id>
-    <published>2019-06-14T00:00:00+0000</published>
-    <updated>2019-06-14T00:00:00+0000</updated>
-    <summary>Gemeinsam warten wir auf das Transparenzgesetz für Berlin! Doch bis das in Kraft tritt, wird noch einige Zeit vergehen. Da wir aber auch jetzt schon eine transparentere Verwaltung brauchen, können wir bereits das derzeitige Informationsfreiheitsgesetz für Berlin und FragDenStaat.de nutzen.
-Es ist gar nicht immer so einfach Anfragen richtig und zielführend zu formulieren oder überhaupt die richtige Behörde zu finden. Doch dabei wollen wir euch bei unserem IFG-Marathon für Berlin helfen.</summary>
   </entry>
   
 </feed>
