@@ -14,7 +14,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: green
+featured: blue
 title: "Eckpunkte Senat: Weniger Transparenz für Schulen und Unikliniken"
 ---
 Am Dienstag (18.8.) einigte sich der Berliner Senat auf Eckpunkte für ein Berliner Transparenzgesetz. Die Initiative Volksentscheid Transparenz begrüßt diesen Schritt.  Gleichzeitig sieht das Bündnis die Eckpunkte an vielen Stellen als einen Rückschritt an. Neue weitreichende Ausnahmen würden für die Politik und Verwaltung eingeführt. Die vom Senat versprochene Orientierung am Hamburger Transparenzgesetz sei verfehlt worden. 
