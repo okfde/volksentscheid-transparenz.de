@@ -4,7 +4,7 @@ authors:
 - "Arne Semsrott"
 date: 2020-08-20
 image:
-  src: /files/blog/2019/07/rathaus+lupe.jpg
+  src: /files/blog/2019/07/rathaus+lupe.png
   title:
   license: 
   license_url: 
