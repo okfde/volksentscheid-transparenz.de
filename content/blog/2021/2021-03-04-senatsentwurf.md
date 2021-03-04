@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: yellow
+featured: blue
 title: "Rückschritt: Entwurf für Berliner Transparenzgesetz verschlechtert Informationsfreiheit"
 ---
 In seiner heutigen Sitzung hat der Berliner Senat einen Gesetzentwurf für ein Berliner Transparenzgesetz und damit eine <a href="https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2021/pressemitteilung.1058887.php">Reform des Informationsfreiheitsgesetzes (IFG) beschlossen</a>. Die Initiative „Volksentscheid Transparenz“ kritisiert den Gesetzentwurf, der dem Bündnis vorliegt: In Sachen Transparenz macht Berlin mit so einem Transparenzgesetz eine Rolle Rückwärts. Die Initiative fordert deshalb das Abgeordnetenhaus auf, grundlegende Änderungen am Gesetzentwurf vorzunehmen.
