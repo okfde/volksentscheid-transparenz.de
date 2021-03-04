@@ -1,7 +1,7 @@
 ---
 authors:
 - "Arne Semsrott"
-date: 2020-08-20
+date: 2021-03-04
 image:
   src: /files/blog/2021/berlin-transparenzgesetz.jpg__1140x0_q90_subsampling-2.jpg
   title:
