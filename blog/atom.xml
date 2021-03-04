@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2020-08-20T00:00:00+0000</updated>
+  <updated>2021-03-04T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Rückschritt: Entwurf für Berliner Transparenzgesetz verschlechtert Informationsfreiheit</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2021/03/r%C3%BCckschritt-entwurf-f%C3%BCr-berliner-transparenzgesetz-verschlechtert-informationsfreiheit/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2021/03/r%C3%BCckschritt-entwurf-f%C3%BCr-berliner-transparenzgesetz-verschlechtert-informationsfreiheit/</id>
+    <published>2021-03-04T00:00:00+0000</published>
+    <updated>2021-03-04T00:00:00+0000</updated>
+    <summary>In seiner heutigen Sitzung hat der Berliner Senat einen Gesetzentwurf für ein Berliner Transparenzgesetz und damit eine Reform des Informationsfreiheitsgesetzes (IFG) beschlossen. Die Initiative „Volksentscheid Transparenz“ kritisiert den Gesetzentwurf, der dem Bündnis vorliegt: In Sachen Transparenz macht Berlin mit so einem Transparenzgesetz eine Rolle Rückwärts. Die Initiative fordert deshalb das Abgeordnetenhaus auf, grundlegende Änderungen am Gesetzentwurf vorzunehmen.
+„Das Gesetz sollte eigentlich mehr Licht ins Dunkel der Berliner Verwaltung bringen, stattdessen macht der Senat nun das Licht aus“, sagt Arne Semsrott, Vertrauensperson des Volksentscheid Transparenz und Projektleiter von FragDenStaat.</summary>
+  </entry>
   
   <entry>
     <title>Eckpunkte Senat: Weniger Transparenz für Schulen und Unikliniken</title>
@@ -17,16 +27,6 @@
     <updated>2020-08-20T00:00:00+0000</updated>
     <summary>Am Dienstag (18.8.) einigte sich der Berliner Senat auf Eckpunkte für ein Berliner Transparenzgesetz. Die Initiative Volksentscheid Transparenz begrüßt diesen Schritt. Gleichzeitig sieht das Bündnis die Eckpunkte an vielen Stellen als einen Rückschritt an. Neue weitreichende Ausnahmen würden für die Politik und Verwaltung eingeführt. Die vom Senat versprochene Orientierung am Hamburger Transparenzgesetz sei verfehlt worden.
 “Nach langem Warten der Berliner/innen auf mehr Transparenz sind diese Eckpunkte überfällig”, sagt Marie Jünemann, Sprecherin der Initiative Volksentscheid Transparenz und Landesvorständin beim Verein Mehr Demokratie e.</summary>
-  </entry>
-  
-  <entry>
-    <title>Rückschritt: Entwurf für Berliner Transparenzgesetz verschlechtert Informationsfreiheit</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2020/08/r%C3%BCckschritt-entwurf-f%C3%BCr-berliner-transparenzgesetz-verschlechtert-informationsfreiheit/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2020/08/r%C3%BCckschritt-entwurf-f%C3%BCr-berliner-transparenzgesetz-verschlechtert-informationsfreiheit/</id>
-    <published>2020-08-20T00:00:00+0000</published>
-    <updated>2020-08-20T00:00:00+0000</updated>
-    <summary>In seiner heutigen Sitzung hat der Berliner Senat einen Gesetzentwurf für ein Berliner Transparenzgesetz und damit eine Reform des Informationsfreiheitsgesetzes (IFG) beschlossen. Die Initiative „Volksentscheid Transparenz“ kritisiert den Gesetzentwurf, der dem Bündnis vorliegt: In Sachen Transparenz macht Berlin mit so einem Transparenzgesetz eine Rolle Rückwärts. Die Initiative fordert deshalb das Abgeordnetenhaus auf, grundlegende Änderungen am Gesetzentwurf vorzunehmen.
-„Das Gesetz sollte eigentlich mehr Licht ins Dunkel der Berliner Verwaltung bringen, stattdessen macht der Senat nun das Licht aus“, sagt Arne Semsrott, Vertrauensperson des Volksentscheid Transparenz und Projektleiter von FragDenStaat.</summary>
   </entry>
   
   <entry>
