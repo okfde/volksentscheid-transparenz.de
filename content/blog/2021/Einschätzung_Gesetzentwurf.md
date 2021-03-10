@@ -16,7 +16,7 @@ published: true
 featured: blue
 title: "Einschätzung des Senatsentwurfes vom 2.3. für ein Berliner Transparenzgesetz"
 ---
-Am 2.3. verabschiedete der Rot-Rot-Grüne Berliner Senat endlich einen Gesetzentwurf für ein Berliner Transparenzgesetz. Damit will er noch kurz vor Ende der aktuellen Legislaturperiode ein Versprechen aus dem Koalitionsvertrag von 2016 einlösen.
+Am 2.3. verabschiedete der Rot-Rot-Grüne Berliner Senat endlich einen Gesetzentwurf für ein Berliner Transparenzgesetz. Damit will er noch kurz vor Ende der aktuellen Legislaturperiode ein Versprechen aus dem Koalitionsvertrag von 2016 einlösen.<sup>1</sup>
 
 Natürlich haben wir den Entwurf unter die Lupe genommen! Im Folgenden geben wir Euch eine Einschätzung: Welche Bereiche in Berlin sollen transparenter werden? Wo bleiben Politik und Verwaltung  intransparent und wo verschlechtert sich die Transparenz sogar wegen des neuen Gesetzes gegenüber dem Status Quo? Schlussendlich beantworten wir die Frage wie der Entwurf des Senats im Vergleich zu unserem Transparenzgesetz-Entwurf und dem Hamburger Transparenzportal abschneidet.
 
@@ -69,4 +69,5 @@ Unser Gesetzentwurf kann <a href="https://volksentscheid-transparenz.de/document
 | Gebühren für Anträge                                                    |                                                                              | in Hamburg wenigstens Ausnahme für ALG II Empfänger*innen                                                    |
 | Rechte der Beauftragten für Datenschutz und Informationsfreiheit (BfDI) |                                                                              | Beispiel: in Hamburg kann Verstoß gegen Transparenzgesetz von BfDI gerichtlich festgestellt werden           |
 
-
+- - - - - - -
+<sup>1</sup> Im Koalitionsvertrag von 2016 heißt es auf Seite 154: “Das Berliner Informationsfreiheitsgesetz wird weiterentwickelt in Richtung eines Transparenzgesetzes mit der Maßgabe, dass nicht schützenswerte Daten in der Regel auf dem Berliner Datenportal zur Verfügung gestellt werden.“
