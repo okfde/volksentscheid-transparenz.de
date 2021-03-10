@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2021-03-04T00:00:00+0000</updated>
+  <updated>2021-03-10T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Einschätzung des Senatsentwurfes vom 2.3. für ein Berliner Transparenzgesetz</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2021/03/einsch%C3%A4tzung-des-senatsentwurfes-vom-2.3.-f%C3%BCr-ein-berliner-transparenzgesetz/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2021/03/einsch%C3%A4tzung-des-senatsentwurfes-vom-2.3.-f%C3%BCr-ein-berliner-transparenzgesetz/</id>
+    <published>2021-03-10T00:00:00+0000</published>
+    <updated>2021-03-10T00:00:00+0000</updated>
+    <summary>Am 2.3. verabschiedete der Rot-Rot-Grüne Berliner Senat endlich einen Gesetzentwurf für ein Berliner Transparenzgesetz. Damit will er noch kurz vor Ende der aktuellen Legislaturperiode ein Versprechen aus dem Koalitionsvertrag von 2016 einlösen.
+Natürlich haben wir den Entwurf unter die Lupe genommen! Im Folgenden geben wir Euch eine Einschätzung: Welche Bereiche in Berlin sollen transparenter werden? Wo bleiben Politik und Verwaltung intransparent und wo verschlechtert sich die Transparenz sogar wegen des neuen Gesetzes gegenüber dem Status Quo?</summary>
+  </entry>
   
   <entry>
     <title>Rückschritt: Entwurf für Berliner Transparenzgesetz verschlechtert Informationsfreiheit</title>
@@ -152,17 +162,6 @@ Mit einer 5 Meter großen Riesenlupe ziehen wir vor das Rote Rathaus, um den Sta
     <updated>2019-07-19T00:00:00+0000</updated>
     <summary>Da sich die amtliche Kostenschätzung durch die Senatsverwaltung für das Transparenzgesetz Volksbegehren verzögert, legt das Bündnis Volksentscheid Transparenz nun eine eigene Kostenschätzung vor. Bereits seit März wartet das Bündnis auf die Kostenschätzung durch die Innenverwaltung.
 Das Bündnis geht von einmaligen Kosten zur Einrichtung des Transparenzportals von 10,3 Millionen Euro aus. Danach würden die laufenden Kosten 1,75 Millionen Euro pro Jahr betragen. Leonard Wolf, Sprecher des Volksentscheides Transparenz, sagt dazu: “Die Umsetzung des Volksentscheids Transparenz würde das Land Berlin gerade einmal 48 Cent pro Bürger*in und pro Jahr kosten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Einladung - Vesper am 27. Juni: Schadet Transparenz der Wirtschaft?</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2019/06/einladung-vesper-am-27.-juni-schadet-transparenz-der-wirtschaft/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2019/06/einladung-vesper-am-27.-juni-schadet-transparenz-der-wirtschaft/</id>
-    <published>2019-06-25T00:00:00+0000</published>
-    <updated>2019-06-25T00:00:00+0000</updated>
-    <summary>am Donnerstag, den 27. Juni, um 19:00 Uhr, im Robert-Havemann-Saal (Haus der Demokratie und Menschenrechte, Greifswalder Str. 4, Berlin)
-Es diskutieren: Sebastian Kürten, Entwickler Topobyte.de Maria Reimer, Transparency Deutschland Arne Semsrott, Open Knowledge Foundation Deutschland
-Wirtschaft und Politik sind eng miteinander verflochten. Das richtige Verhältnis zwischen diesen beiden Kräften zu finden, ist schwierig. Ein neues Volksbegehren in Berlin möchte die Beziehung zwischen Wirtschaft und Politik genauer unter die Lupe nehmen. Doch was kann Transparenz leisten?</summary>
   </entry>
   
 </feed>
