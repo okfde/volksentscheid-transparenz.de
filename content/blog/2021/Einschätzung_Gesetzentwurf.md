@@ -73,3 +73,5 @@ Unser Gesetzentwurf kann <a href="https://volksentscheid-transparenz.de/document
 
 - - - - - - -
 (1) Im Koalitionsvertrag von 2016 heißt es auf Seite 154: “Das Berliner Informationsfreiheitsgesetz wird weiterentwickelt in Richtung eines Transparenzgesetzes mit der Maßgabe, dass nicht schützenswerte Daten in der Regel auf dem Berliner Datenportal zur Verfügung gestellt werden.“
+
+- - - - - - -
