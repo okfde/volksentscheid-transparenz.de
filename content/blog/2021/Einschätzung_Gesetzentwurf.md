@@ -69,7 +69,6 @@ Unser Gesetzentwurf kann <a href="https://volksentscheid-transparenz.de/document
 | Gebühren für Anträge<br>                                                    |                                                                              | in Hamburg wenigstens Ausnahme für ALG II Empfänger*innen                                                    |
 | Rechte der Beauftragten für Datenschutz und Informationsfreiheit (BfDI)<br> |                                                                              | Beispiel: in Hamburg kann Verstoß gegen Transparenzgesetz von BfDI gerichtlich festgestellt werden           |
 
-
 - - - - - - -
 (1) Im Koalitionsvertrag von 2016 heißt es auf Seite 154: “Das Berliner Informationsfreiheitsgesetz wird weiterentwickelt in Richtung eines Transparenzgesetzes mit der Maßgabe, dass nicht schützenswerte Daten in der Regel auf dem Berliner Datenportal zur Verfügung gestellt werden.“
 
