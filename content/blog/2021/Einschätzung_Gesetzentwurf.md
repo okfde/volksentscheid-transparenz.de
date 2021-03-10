@@ -59,6 +59,7 @@ Unser Gesetzentwurf kann <a href="https://volksentscheid-transparenz.de/document
 
 ### Übersichtstabelle Rückschritte zum Berliner IFG und zum Hamburgischen Transparenzgesetz
 
+
 | **Kategorie**                                                               | **Verschlechterung zum IFG**                                                 | **Verschlechterung zum HmbTG**                                                                               |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | weitreichende Bereichsausnahmen<br>                                         | Beispiele: Schulen und Hochschulen, Korruptionsprävention, Stiftungsaufsicht | Beispiele: Landeskartellamt, Korruptionsprävention                                                           |
