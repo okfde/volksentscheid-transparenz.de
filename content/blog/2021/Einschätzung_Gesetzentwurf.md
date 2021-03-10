@@ -49,7 +49,7 @@ Organisationspflichten für die Politik und Verwaltung sind, anders als in Hambu
 
 Alles in allem kann bei dem Gesetzentwurf des Senats weder von einer substantiellen Weiterentwicklung des IFG, noch von einer Orientierung am Hamburger Standard die Rede sein. Es handelt sich in Bezug auf das IFG in vielen Bereichen um einen deutlichen Rückschritt.
 
-Die Ziele eines Transparenzgesetzes, nämlich die Nachvollziehbarkeit von politischen Entscheidungen zu erhöhen, eine gleiche Informationsbasis zwischen Bevölkerung und Politik herzustellen, die Kontrolle öffentlichen Handelns und ein gleichberechtigter Zugang zu Informationen zu ermöglichen und das alles unabhängig von den individuellen materiellen Voraussetzungen der Bürger:innen, werden durch diesen Gesetzentwurf nicht erreicht. Zum Beispiel, in Bezug auf die investigative Arbeit von Journalist:innen und den Datenschutz gefährdeter Gruppen, sehen wir in den Ausführungen des Entwurfes ein deutliches Risiko.
+Die Ziele eines Transparenzgesetzes, nämlich die Nachvollziehbarkeit von politischen Entscheidungen zu erhöhen, eine gleiche Informationsbasis zwischen Bevölkerung und Politik herzustellen, die Kontrolle öffentlichen Handelns und einen gleichberechtigten Zugang zu Informationen zu ermöglichen und das alles unabhängig von den individuellen materiellen Voraussetzungen der Bürger:innen, werden durch diesen Gesetzentwurf nicht erreicht. Zum Beispiel in Bezug auf die investigative Arbeit von Journalist:innen und den Datenschutz gefährdeter Gruppen; sehen wir in den Ausführungen des Entwurfes ein deutliches Risiko.
 
 Nach eingehender Betrachtung empfiehlt der Volksentscheid Transparenz deshalb den Fraktionen des Abgeordnetenhauses substantielle Verbesserungen des Entwurfs anhand der oben genannten Punkte vorzunehmen. Um dem Zweck eines Transparenzgesetzes gerecht zu werden, sollten sich die Fraktionen an unserem Gesetzentwurf orientieren. Die Verschlechterungen im Vergleich zum IFG müssen beseitigt und die Hamburger Regelungen als Mindeststandard übernommen werden. Wenn dies nicht geschieht, ist es besser keinen Gesetzentwurf zu verabschieden, als diesen.
 
@@ -63,12 +63,19 @@ Unser Gesetzentwurf kann <a href="https://volksentscheid-transparenz.de/document
 | **Kategorie**                                                               | **Verschlechterung zum IFG**                                                 | **Verschlechterung zum HmbTG**                                                                               |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | weitreichende Bereichsausnahmen<br>                                         | Beispiele: Schulen und Hochschulen, Korruptionsprävention, Stiftungsaufsicht | Beispiele: Landeskartellamt, Korruptionsprävention                                                           |
+
 | neue und weitreichende einzelne  Ausnahmetatbestände<br>                    | Beispiele: Polizei, Klausel für Rechtsmissbrauch                             | Beispiel: Ausnahme bei schwerwiegender Gefährdung des Gemeinwohls gibt es in Hamburg nicht                   |
+
 | zu lange Frist zur Herausgabe von Informationen<br>                         | weltweit einzigartige Verlängerung der Frist auf 3 Monate möglich            | beträgt in Hamburg 1 Monat, kann auf 2 Monate verlängert werden                                              |
+
 | Datenschutzprobleme<br>                                                     | Identitätspflicht und eventuell Weitergabe an Dritte                         |                                                                                                              |
+
 | zu wenige veröffentlichungspflichtige Informationen<br>                     |                                                                              | Beispiele Hamburg: Gutachten, Vorblatt und Entscheidungssatz Senatsdrucksachen, sämtliche Tätigkeitsberichte |
+
 | Gebühren für Anträge<br>                                                    |                                                                              | in Hamburg wenigstens Ausnahme für ALG II Empfänger*innen                                                    |
+
 | Rechte der Beauftragten für Datenschutz und Informationsfreiheit (BfDI)<br> |                                                                              | Beispiel: in Hamburg kann Verstoß gegen Transparenzgesetz von BfDI gerichtlich festgestellt werden           |
+
 
 
 - - - - - - -
