@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2021-03-10T00:00:00+0000</updated>
+  <updated>2021-03-25T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Senatsentwurf ist unzureichend - Wir fordern ein echtes Transparenzgesetz</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2021/03/senatsentwurf-ist-unzureichend-wir-fordern-ein-echtes-transparenzgesetz/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2021/03/senatsentwurf-ist-unzureichend-wir-fordern-ein-echtes-transparenzgesetz/</id>
+    <published>2021-03-25T00:00:00+0000</published>
+    <updated>2021-03-25T00:00:00+0000</updated>
+    <summary>Der Entwurf des Berliner Senats für ein &amp;ldquo;Transparenzgesetz&amp;rdquo; würde die Informationsfreiheit in der Hauptstadt verschlechtern. Unsere Bündnispartner fordern ein Transparenzgesetz für Berlin, das seinem Namen gerecht wird.
+Am 12. April diskutieren wir den Senatsentwurf mit den zuständigen Fachpolitikern der rot-rot-grünen Koalition (Michael Efler, Benedikt Lux und Sven Kohlmeier). Jetzt anmelden!</summary>
+  </entry>
   
   <entry>
     <title>Einschätzung des Senatsentwurfes vom 2.3. für ein Berliner Transparenzgesetz</title>
@@ -152,16 +162,6 @@ Berlin aufgepasst! Am 3.8. um 0:00 Uhr startet die Unterschriftensammlung für d
 Freitag, 2. August: Presseaktion Wann: 10:00 Uhr
 Wo: Rotes Rathaus, Haupteingang
 Mit einer 5 Meter großen Riesenlupe ziehen wir vor das Rote Rathaus, um den Startschuss für die Unterschriftensammlung des Volksbegehrens zu geben.</summary>
-  </entry>
-  
-  <entry>
-    <title>0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/</id>
-    <published>2019-07-19T00:00:00+0000</published>
-    <updated>2019-07-19T00:00:00+0000</updated>
-    <summary>Da sich die amtliche Kostenschätzung durch die Senatsverwaltung für das Transparenzgesetz Volksbegehren verzögert, legt das Bündnis Volksentscheid Transparenz nun eine eigene Kostenschätzung vor. Bereits seit März wartet das Bündnis auf die Kostenschätzung durch die Innenverwaltung.
-Das Bündnis geht von einmaligen Kosten zur Einrichtung des Transparenzportals von 10,3 Millionen Euro aus. Danach würden die laufenden Kosten 1,75 Millionen Euro pro Jahr betragen. Leonard Wolf, Sprecher des Volksentscheides Transparenz, sagt dazu: “Die Umsetzung des Volksentscheids Transparenz würde das Land Berlin gerade einmal 48 Cent pro Bürger*in und pro Jahr kosten.</summary>
   </entry>
   
 </feed>
