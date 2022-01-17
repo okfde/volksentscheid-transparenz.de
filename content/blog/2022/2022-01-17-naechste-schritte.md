@@ -14,7 +14,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Volksentscheid Transparenz: Nächste Schritt"
+title: "Volksentscheid Transparenz: Nächste Schritte"
 ---
 Wer sich mit der Volksgesetzgebung in Berlin auskennt, weiß, dass wir in der nächsten Stufe vier Monate Zeit haben, um ca. 200.000 Unterschriften zu sammeln. Wir haben uns entschieden, mit unserer Initiative in diese zweite Stufe zunächst nicht zu gehen, sondern stattdessen Verhandlungen mit den Koalitionsfraktionen zu führen.
 
