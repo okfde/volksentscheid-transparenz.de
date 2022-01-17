@@ -22,8 +22,6 @@ Wir möchten im Folgenden die Gründe erklären, die zu dieser Entscheidung und 
 
 1. *Die lange Zulässigkeitsprüfung*: Ganze 20 Monate hat die Zulässigkeitsprüfung unseres Gesetzentwurfs gedauert. Wir hatten mit fünf Monaten gerechnet, so wie es seit der Reform des Abstimmungsgesetzes vom Oktober 2020 auch gesetzlich festgeschrieben ist. Durch diese lange Prüfungszeit ist trotz vorgesehener Puffer unser ursprünglicher Zeitplan nicht mehr haltbar und die Chancen, dass unser Volksentscheid mit einer Wahl zusammenzufallen würde, sind gering. Durch das Zustimmungsquorum von 25 Prozent beim Volksentscheid ist eine Zusammenlegung von Wahl und Abstimmung jedoch extrem wichtig für den Erfolg eines Entscheides.
 
-Auch unsere Mobilisierungsbasis, ja der Drive unserer Kampagne, ist durch die lange Prüfung leider kaum mehr vorhanden.
-
 2. *Die Corona-Pandemie* machte im Großteil der Prüfungszeit physische Treffen unmöglich. Die Pandemiesituation hat unser aller Alltag verändert, sodass politisches Engagement für Viele erst einmal hinten anstehen musste.
 
 Die Ausnahmesituation ist noch nicht vorbei. Eine Unterschriftensammlung auf der Straße ist in Pandemiezeiten, in denen besonders auf die Sicherheit der Sammler:innen und Unterschreibenden geachtet werden muss und in der auch Großevents wenig bis gar nicht stattfinden, stark erschwert.
