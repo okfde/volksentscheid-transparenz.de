@@ -1,365 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://volksentscheid-transparenz.de/gruende/1_politik/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/2_kontrolle/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/3_unternehmen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/4_lobby/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/5_ort/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/6_gebuehren/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/7_ausnahmen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/8_innovation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/gruende/9_verwaltung/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/informationsfreiheit/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/transparenzgesetz/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2022/01/volksentscheid-transparenz-n%C3%A4chste-schritte/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/blog/2021/08/volksentscheid-transparenz-ist-zul%C3%A4ssig-senat-brauchte-20-monate-f%C3%BCr-pr%C3%BCfung/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/blog/2021/03/stimmen-aus-dem-b%C3%BCndnis-und-diskussion-zum-senatsentwurf/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/blog/2021/03/einsch%C3%A4tzung-des-senatsentwurfes-vom-2.3.-f%C3%BCr-ein-berliner-transparenzgesetz/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/blog/2021/03/r%C3%BCckschritt-entwurf-f%C3%BCr-berliner-transparenzgesetz-verschlechtert-informationsfreiheit/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/blog/2020/08/eckpunkte-senat-weniger-transparenz-f%C3%BCr-schulen-und-unikliniken/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2020/07/spekulation-abwenden-abwendungsvereinbarungen-ver%C3%B6ffentlichen/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2020/01/antrag-auf-volksbegehren-erfolgreich-unterschriften-wurden-gez%C3%A4hlt/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/12/30.000-mal-mehr-transparenz-unterschriften-an-berliner-senat-%C3%BCbergeben/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/11/transparenzgesetz-im-abgeordnetenhaus-stellungnahme-des-b%C3%BCndnisses/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/10/%C3%BCbergabe-der-unterschriften-anfang-dezember/</loc>
-    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/09/gastbeitrag-gegen-geheime-interessenvertretung-lobbykontakte-m%C3%BCssen-offengelegt-werden/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/09/geheim-weil-geheim-werbevertrag-der-stadt-berlin-bleibt-geschw%C3%A4rzt/</loc>
-    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/08/paul-robeson-stra%C3%9Fe-17-erstmals-abwendungsvereinbarung-ver%C3%B6ffentlicht/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/08/presseschau-zum-kampagnenstart-des-volksentscheid-transparenz/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/08/auftaktaktion-volksentscheid-transparenz-vor-dem-roten-rathaus-40-organisationen-setzen-sich-f%C3%BCr-ein-berliner-transparenzgesetz-ein/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/07/auf-die-pl%C3%A4tze-f%C3%A4rtig-transpar%C3%A4nz-die-unterschriftensammlung-ist-am-3.8.-am-start/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/06/einladung-vesper-am-27.-juni-schadet-transparenz-der-wirtschaft/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/06/senatsverwaltung-bremst-b%C3%BCndnis-f%C3%BCr-transparenzgesetz-bereits-vor-start-aus/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-f%C3%BCr-echte-transparenz-sorgen/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/03/gesetzesentwurf-zur-kostensch%C3%A4tzung-eingereicht/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/</loc>
-    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/gruende/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/akteneinsicht/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/auftaktveranstaltung/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/berlin/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/blog/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/gesetz/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/downloads/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/einladung/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/fdp/</loc>
-    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/impressum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/info/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/informationsfreiheit/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/klage/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/kostensch%C3%A4tzung/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/lobbyismus/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/bestellen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/tags/miete/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/mitmachen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/newsletter/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/presse/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/pressemitteilung/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2020/07/spekulation-abwenden-abwendungsvereinbarungen-ver%C3%B6ffentlichen/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2020/01/antrag-auf-volksbegehren-erfolgreich-unterschriften-wurden-gez%C3%A4hlt/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/12/30.000-mal-mehr-transparenz-unterschriften-an-berliner-senat-%C3%BCbergeben/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/11/transparenzgesetz-im-abgeordnetenhaus-stellungnahme-des-b%C3%BCndnisses/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/10/%C3%BCbergabe-der-unterschriften-anfang-dezember/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/09/gastbeitrag-gegen-geheime-interessenvertretung-lobbykontakte-m%C3%BCssen-offengelegt-werden/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/lobbyismus/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/09/geheim-weil-geheim-werbevertrag-der-stadt-berlin-bleibt-geschw%C3%A4rzt/</loc>
+    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/08/paul-robeson-stra%C3%9Fe-17-erstmals-abwendungsvereinbarung-ver%C3%B6ffentlicht/</loc>
+    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/tags/presseschau/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/senatsverwaltung/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/spenden/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/styleguide/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/08/presseschau-zum-kampagnenstart-des-volksentscheid-transparenz/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/tags/transparenz/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/transparenzgesetz/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/info/sammeln/</loc>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/unterschriftensammlung/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/verfassungsschutz/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/verz%C3%B6gerung/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://volksentscheid-transparenz.de/tags/videovolksbegehren/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/tags/volksbegehren/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://volksentscheid-transparenz.de/tags/volksentscheid/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/08/auftaktaktion-volksentscheid-transparenz-vor-dem-roten-rathaus-40-organisationen-setzen-sich-f%C3%BCr-ein-berliner-transparenzgesetz-ein/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/auftaktveranstaltung/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/pressemitteilung/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/unterschriftensammlung/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/07/auf-die-pl%C3%A4tze-f%C3%A4rtig-transpar%C3%A4nz-die-unterschriftensammlung-ist-am-3.8.-am-start/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/berlin/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/kostensch%C3%A4tzung/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/einladung/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/06/einladung-vesper-am-27.-juni-schadet-transparenz-der-wirtschaft/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/senatsverwaltung/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/06/senatsverwaltung-bremst-b%C3%BCndnis-f%C3%BCr-transparenzgesetz-bereits-vor-start-aus/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/verz%C3%B6gerung/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/akteneinsicht/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/05/verwirrspiel-um-video-volksentscheid-zeigt-wir-brauchen-ein-transparenzgesetz/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/videovolksbegehren/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/04/berliner-verfassungsschutzgesetz-europarechtswidrig-neues-gesetz-muss-f%C3%BCr-echte-transparenz-sorgen/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/klage/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/verfassungsschutz/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/03/gesetzesentwurf-zur-kostensch%C3%A4tzung-eingereicht/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/tags/fdp/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/gruende/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/categories/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/gesetz/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/downloads/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/impressum/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/info/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/kontakt/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/bestellen/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/mitmachen/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/newsletter/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/presse/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/spenden/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/styleguide/</loc>
+  </url><url>
+    <loc>https://volksentscheid-transparenz.de/info/sammeln/</loc>
   </url>
-  
 </urlset>

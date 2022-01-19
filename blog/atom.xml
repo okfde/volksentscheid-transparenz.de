@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenz</title>
   <link rel="self" href="https://volksentscheid-transparenz.de/blog/"/>
-  <updated>2021-08-17T00:00:00+0000</updated>
+  <updated>2022-01-17T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://volksentscheid-transparenz.de/blog/</id>
+  
+  <entry>
+    <title>Volksentscheid Transparenz: Nächste Schritte</title>
+    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2022/01/volksentscheid-transparenz-n%C3%A4chste-schritte/"/>
+    <id>https://volksentscheid-transparenz.de/blog/2022/01/volksentscheid-transparenz-n%C3%A4chste-schritte/</id>
+    <published>2022-01-17T00:00:00+0000</published>
+    <updated>2022-01-17T00:00:00+0000</updated>
+    <summary>Wer sich mit der Volksgesetzgebung in Berlin auskennt, weiß, dass wir in der nächsten Stufe vier Monate Zeit haben, um ca. 200.000 Unterschriften zu sammeln. Wir haben uns entschieden, mit unserer Initiative in diese zweite Stufe zunächst nicht zu gehen, sondern stattdessen Verhandlungen mit den Koalitionsfraktionen zu führen.
+Wir möchten im Folgenden die Gründe erklären, die zu dieser Entscheidung und Einschätzung geführt haben:
+  Die lange Zulässigkeitsprüfung: Ganze 20 Monate hat die Zulässigkeitsprüfung unseres Gesetzentwurfs gedauert.</summary>
+  </entry>
   
   <entry>
     <title>Volksentscheid Transparenz ist zulässig: Senat brauchte 20 Monate für Prüfung</title>
@@ -25,7 +36,7 @@
     <id>https://volksentscheid-transparenz.de/blog/2021/03/stimmen-aus-dem-b%C3%BCndnis-und-diskussion-zum-senatsentwurf/</id>
     <published>2021-03-25T00:00:00+0000</published>
     <updated>2021-03-25T00:00:00+0000</updated>
-    <summary>Der Entwurf des Berliner Senats für ein &amp;ldquo;Transparenzgesetz&amp;rdquo; würde die Informationsfreiheit in der Hauptstadt verschlechtern. Unsere Bündnispartner fordern ein Transparenzgesetz für Berlin, das seinem Namen gerecht wird.
+    <summary>Der Entwurf des Berliner Senatsfür ein &amp;ldquo;Transparenzgesetz&amp;rdquo; würde die Informationsfreiheit in der Hauptstadt verschlechtern. Unsere Bündnispartner fordern ein Transparenzgesetz für Berlin, das seinem Namen gerecht wird.
 Am 12. April diskutieren wir den Senatsentwurf mit den zuständigen Fachpolitikern der rot-rot-grünen Koalition (Michael Efler, Benedikt Lux und Sven Kohlmeier). Jetzt anmelden!</summary>
   </entry>
   
@@ -118,7 +129,7 @@ Das Verfahren bei Volksbegehren beinhaltet viele komplizierte Fristen und Hürde
     <published>2019-09-19T00:00:00+0000</published>
     <updated>2019-09-19T00:00:00+0000</updated>
     <summary>Sie sind Rüstungs- oder Pharmaunternehmer*in? Herzlichen Glückwunsch, Ihre Lobbyverbände zählen zu den einflussreichsten in Berlin. Damit haben Sie gute Chancen, Gesetze zu Ihren Gunsten zu verändern.
-Denn: Lobbyismus unterliegt in Deutschland so gut wie keiner Beschränkung. Allein in Berlin arbeiten geschätzt 6.000 Lobbyist*innen. Sie schicken unverlangt Stellungnahmen, beraten Politiker*in in Fachfragen oder schreiben an Gesetzestexten mit. Sie sind bestens vernetzt und informiert. Sie haben also maßgeblichen Einfluss auf politische Entscheidungen. Doch der Einfluss bleibt im Verborgenen.</summary>
+Denn: Lobbyismus unterliegt in Deutschland so gut wie keiner Beschränkung. Allein in Berlin arbeiten geschätzt 6.000 Lobbyistinnen. Sie schicken unverlangt Stellungnahmen, beraten Politikerin in Fachfragen oder schreiben an Gesetzestexten mit. Sie sind bestens vernetzt und informiert. Sie haben also maßgeblichen Einfluss auf politische Entscheidungen. Doch der Einfluss bleibt im Verborgenen.</summary>
   </entry>
   
   <entry>
@@ -149,16 +160,6 @@ Im August 2018 erhielten die Bewohner*innen der Paul-Robeson-Straße 17 von ihre
     <updated>2019-08-09T00:00:00+0000</updated>
     <summary>Zahlreiche Medien haben über den Startschuss des Volksbegehrens für ein Transparenzgesetz in Berlin berichtet. Das zivilgesellschaftliche Bündnis „Volksentscheid Transparenz” war mit seiner groß angelegten Sammelaktion am 3.8. vor allem in Berliner Medien präsent. An diesem Tag waren 60 ehrenamtliche Helfer*innen in der Stadt unterwegs und haben Unterschriften für mehr Transparenz in Politik und Verwaltung gesammelt.
 In einem dreiminütigen Fernsehbeitrag erläutert die RBB Abendschau die Ziele des Volksbegehrens und begleitet Lea Pfau von der Open Knowledge Foundation am ersten Tag der Unterschriftensammlung.</summary>
-  </entry>
-  
-  <entry>
-    <title>Auftaktaktion Volksentscheid Transparenz vor dem Roten Rathaus - 40 Organisationen setzen sich für ein Berliner Transparenzgesetz ein</title>
-    <link rel="alternate" href="https://volksentscheid-transparenz.de/blog/2019/08/auftaktaktion-volksentscheid-transparenz-vor-dem-roten-rathaus-40-organisationen-setzen-sich-f%C3%BCr-ein-berliner-transparenzgesetz-ein/"/>
-    <id>https://volksentscheid-transparenz.de/blog/2019/08/auftaktaktion-volksentscheid-transparenz-vor-dem-roten-rathaus-40-organisationen-setzen-sich-f%C3%BCr-ein-berliner-transparenzgesetz-ein/</id>
-    <published>2019-08-02T00:00:00+0000</published>
-    <updated>2019-08-02T00:00:00+0000</updated>
-    <summary>Mit einer fünf Meter langen Lupe steht das Bündnis „Volksentscheid Transparenz” heute vor dem Roten Rathaus und leitet mit einer Auftaktaktion den Start seiner Unterschriftensammlung ein. Ab Samstag (03.08.) sammelt das zivilgesellschaftliche Bündnis Unterschriften für mehr Transparenz in der Berliner Politik und Verwaltung. Zum Auftakt ruft das Bündnis zu einem gemeinsamen Sammeltag am Samstag auf.
-„Wir wollen von Anfang an deutlich machen, wie dringend Berlin mehr öffentliche Kontrolle durch mehr Transparenz braucht”, sagt Arne Semsrott Sprecher des Bündnisses, am Rande der Aktion.</summary>
   </entry>
   
 </feed>
