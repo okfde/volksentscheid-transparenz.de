@@ -4,7 +4,8 @@
     <title>Categories on Volksentscheid Transparenz</title>
     <link>https://volksentscheid-transparenz.de/categories/</link>
     <description>Recent content in Categories on Volksentscheid Transparenz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://volksentscheid-transparenz.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="https://volksentscheid-transparenz.de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
